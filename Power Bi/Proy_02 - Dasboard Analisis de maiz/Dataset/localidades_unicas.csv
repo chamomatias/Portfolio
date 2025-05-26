@@ -1,0 +1,2328 @@
+provincia,municipio,latitud,longitud
+Chaco,La escondida,-27.107324847,-59.44753251
+Cordoba,Quilino,-30.285767867,-64.378978077
+Chubut,Carrenleufu,-43.585688544,-71.700902024
+Chubut,Lago blanco,-45.946859419,-71.264110664
+Buenos aires,Hurlingham,-34.612394445,-58.653810369
+Santa fe,Godoy,-33.433502197,-60.402519226
+San luis,Villa mercedes,-33.677369777,-65.473143366
+Jujuy,Barrancas,-23.275302523,-65.946380462
+Chubut,28 de julio,-43.38097713,-65.838687743
+Rio negro,Naupa huen,-39.828284593,-69.508972688
+Santiago del estero,Chilca juliana,-28.807483356,-63.486777342
+Mendoza,Malargue,-36.107008,-69.761199
+Cordoba,Estancia de guadalupe,-31.18595404,-65.247435865
+Santa fe,Correa,-32.84946108,-61.254556908
+Santa cruz,El chalten,-49.331973118,-72.891626709
+Buenos aires,Colon,-33.914783802,-60.943808185
+Buenos aires,Benito juarez,-37.6438,-59.8529
+Entre rios,Los conquistadores,-30.594407458,-58.468262706
+Chaco,Gancedo,-27.48964879,-61.673877171
+Cordoba,Laborde,-33.152989183,-62.856073778
+Entre rios,General galarza,-32.721271306,-59.395888703
+Salta,La caldera,-24.709346771,-65.288383484
+Catamarca,Fray mamerto esquiu,-28.419848734,-65.698837796
+Buenos aires,Olavarria,-37.1820692,-60.6463365
+Santa fe,Colonia iturraspe,-31.4788195,-61.62158
+Santa fe,Arequito,-33.050945267,-61.487723342
+Salta,Santa victoria oeste,-22.34120267,-65.17109986
+Salta,Rio piedras,-25.321181876,-64.917329425
+Entre rios,San ramirez,-30.46341428,-59.34085823
+La pampa,Puelches,-38.01481736,-65.584818951
+Santa fe,General lagos,-33.112158888,-60.566573784
+Chaco,Corzuela,-26.891746562,-61.119342344
+San luis,Las aguadas,-32.417919159,-65.48777771
+Santa cruz,Canadon seco,-46.55884577,-67.616856369
+La rioja,Sanagasta,-29.140890122,-67.157470703
+Buenos aires,Almirante brown,-34.801558074,-58.391467719
+Cordoba,Bell ville,-32.628560075,-62.689114908
+Santa cruz,Caleta olivia,-46.44594923,-67.525156497
+Entre rios,Nueva vizcaya,-30.968514977,-58.612747928
+Buenos aires,Jose c paz,-34.491848399,-58.786378032
+Santiago del estero,Garza,-28.164064062,-63.469345611
+Buenos aires,Rojas,-34.3064955,-60.6245184
+Santiago del estero,Pinto,-29.139635716,-62.562396054
+Cordoba,Amboy,-32.2162493,-64.6720222
+Santa cruz,Area sin gobierno,-48.420131683,-67.354904175
+Santa fe,Suardi,-30.536145346,-61.961680584
+Jujuy,Huacalera,-23.402354468,-65.391045155
+San luis,La toma,-33.05443762,-65.62269821
+Rio negro,Maquinchao,-41.247516564,-68.700341069
+Buenos aires,General belgrano,-35.834410002,-58.477360025
+Corrientes,Lavalle,-29.02498125,-59.18185701
+Chaco,Enrique urien,-27.558725149,-60.525990754
+Santa fe,Santa clara de buena vista,-31.768503,-61.3988686
+Cordoba,Area sin gobierno,-30.088494983,-63.453583662
+Misiones,Garuhape,-26.785012551,-54.901151033
+Cordoba,Salsacate,-31.315161675,-65.091026059
+Cordoba,Luca,-32.54019796,-63.476253638
+Entre rios,Enrique carbo,-33.147848356,-59.208940114
+Entre rios,El carmen - estacion racedo,-31.984016449,-60.408391229
+Jujuy,Tumbaya,-23.817407608,-65.53327179
+Cordoba,Leones,-32.658391411,-62.299914625
+Chaco,Miraflores,-25.289866904,-60.686208931
+Cordoba,Colonia tirolesa,-31.291504473,-64.116614974
+Santa fe,Las avispas,-29.895312796,-61.291199245
+Santa fe,Labordeboy,-33.719652745,-61.314920817
+Santa fe,General gelly,-33.601843491,-60.598938352
+Santa fe,El trebol,-32.2424536,-61.6430165
+Salta,El jardin,-26.070972443,-65.475334167
+Cordoba,Lozada,-31.648454532,-64.089979611
+Cordoba,Salsipuedes,-31.134926931,-64.287333107
+Mendoza,San carlos,-34.66436573,-69.3184
+Chubut,Area sin gobierno,-43.483531952,-66.1457901
+Santa fe,Santa teresa,-33.438547162,-60.791154277
+La pampa,Chacharramendi,-37.331814776,-65.650772795
+Mendoza,San martin,-33.041146736,-68.354152737
+Chubut,Cholila,-42.518827788,-71.438412841
+Cordoba,La puerta,-30.892605116,-63.253271201
+Cordoba,La cumbre,-30.956590882,-64.611907399
+Tucuman,Los ralos,-26.891469273,-65.013182212
+Buenos aires,Suipacha,-34.802573066,-59.735773749
+Santa fe,Lanteri,-28.8541597,-59.699156
+Salta,Cafayate,-26.10228924,-66.015506705
+La pampa,Alta italia,-35.306827769,-64.005472555
+Santiago del estero,Campo gallo,-26.58141906,-62.826200321
+Rio negro,Area sin gobierno,-40.286151886,-66.82636261
+Formosa,Formosa,-26.167814399,-58.210542984
+Buenos aires,Loberia,-37.841876612,-58.755234671
+Catamarca,Villa vil,-26.94426,-66.73487
+Cordoba,Santa rosa de calamuchita,-32.099451267,-64.533759176
+Rio negro,Arroyo los berros,-41.579502106,-66.476715088
+Santa cruz,Las heras,-46.542455379,-68.934177323
+Entre rios,Lucas sur primero,-31.652869773,-58.972338706
+Neuquen,Vista alegre,-38.727712313,-68.172143886
+Tucuman,Alpachiri y el molino,-27.37255,-65.67885
+Formosa,Posta cambio zalazar,-24.211584863,-60.198666969
+Rio negro,Paso flores,-40.602085545,-70.696542459
+Corrientes,El sombrero,-27.703544087,-58.768606058
+Corrientes,San isidro,-29.598489979,-59.281754751
+Corrientes,Pago de los deseos,-28.204321187,-58.466297626
+Corrientes,3 de abril,-28.380884847,-58.948096277
+Chaco,El espinillo,-25.417669864,-60.413967702
+Salta,Aguas blancas,-22.72456119,-64.34631922
+Santa fe,Colonia teresa,-30.2584345,-59.9707229
+Rio negro,Cubanea,-40.633583069,-63.509506226
+Rio negro,Chipauquil,-40.960491209,-66.642187585
+Neuquen,Pilo lil,-39.60386091,-70.934991533
+Neuquen,Guanacos,-37.2692894,-70.7661301
+Cordoba,Los chanaritos (rio segundo),-31.402137754,-63.332103043
+Santiago del estero,Dona luisa,-27.7,-64.7333
+Santiago del estero,Sabagasta,-28.628066707,-63.493911072
+Chaco,Mision nueva pompeya,-24.933441884,-61.48469984
+Chubut,Aldea apeleg,-44.705252114,-70.846001014
+Santa fe,Campo piaggio,-31.95373,-61.290612
+Chaco,Lapachito,-27.158790347,-59.390397501
+Chaco,Colonias unidas,-26.700097178,-59.627742183
+Cordoba,Los talares,-31.375411502,-65.038601146
+Cordoba,La rancherita,-31.757467541,-64.448690278
+Corrientes,Carolina,-29.14577068,-59.182083828
+Corrientes,Villa olivari,-27.632947331,-56.906201483
+Corrientes,Colonia pando,-28.525214883,-58.486934549
+Entre rios,Colonia san anselmo y aledanas,-32.30106483,-58.27904075
+Entre rios,Costa grande,-32.281285153,-60.431193463
+Entre rios,La florida,-30.67149184,-58.01593122
+Entre rios,San roque,-30.706810067,-57.887849136
+Entre rios,Banderas,-30.789240542,-59.160120376
+Entre rios,Distrito diego lopez,-31.155743694,-58.918162213
+Entre rios,Santa lucia,-30.874467495,-58.523085674
+Entre rios,Distrito chanar,-30.30815813,-58.81806904
+Entre rios,Las mulitas,-30.37970606,-58.99523657
+Entre rios,Islas las lechiguanas,-33.44138931,-59.8906592
+Entre rios,Pastor britos,-32.769742613,-58.907020041
+Entre rios,Rincon del gato,-32.697677313,-58.617448789
+Entre rios,Perdices,-33.299770355,-58.705184936
+Entre rios,Nancay,-33.44864594,-58.66964192
+Entre rios,La providencia,-31.246829,-59.7497
+Entre rios,Saucecito,-30.63413672,-59.26126334
+Entre rios,Crucesitas octava,-32.040561055,-59.528795103
+Entre rios,Oro verde,-31.825735547,-60.518272816
+Entre rios,Arroyo corralito,-31.532554,-60.050345
+Entre rios,Aldea santa rosa,-32.01645446,-60.241107347
+Entre rios,Colonia oficial n° 5,-31.593985089,-58.371160151
+Entre rios,Arroyo gena,-32.34236749,-58.64816979
+Entre rios,San cipriano,-32.388415873,-58.335042065
+Entre rios,Tala,-32.61841391,-58.42112859
+Entre rios,Chilcas,-32.312292219,-60.311258623
+Entre rios,Hinojal,-32.333431074,-60.162989466
+Entre rios,Rincon del doll,-32.362622704,-60.345355254
+Entre rios,Montoya,-32.641140103,-59.874377587
+Entre rios,Colonia adivino,-31.316926088,-59.308566952
+Entre rios,Paraje los algarrobos,-31.540698367,-59.341990253
+Rio negro,Pichi mahuida,-38.829613618,-64.937419806
+Santa cruz,Mina 3,-51.548766046,-72.233390977
+Santa fe,Maua,-30.768702,-61.258321
+Santa fe,Nicanor molinas,-29.141320195,-59.761140808
+Santa fe,Dos rosas y la legua,-30.588125,-61.9758256
+Santiago del estero,San ramon - la darsena,-27.727552273,-64.245798473
+Santiago del estero,Villa zanjon,-27.886040581,-64.173079775
+Santiago del estero,Villa matoque,-25.83161256,-63.79513141
+Santiago del estero,Guampacha,-28.01271,-64.79012
+Santiago del estero,Villa guasayan,-27.88479,-64.85159
+Santiago del estero,Pozo del toba,-27.95090645,-61.99804769
+Santiago del estero,Quebracho coto,-26.283780487,-64.467463769
+Santiago del estero,Villa robles,-27.92487,-64.10821
+Tucuman,Simoca,-27.262422671,-65.355289474
+Tucuman,Soldado maldonado,-27.142336008,-65.565682202
+Tucuman,Los pereyra,-26.940437317,-64.876953125
+Santiago del estero,Sol de mayo,-27.70388,-64.58849
+Santiago del estero,Juanillo,-28.59715,-63.69028
+Santiago del estero,Punta pozo,-28.49739679,-63.622774783
+Santiago del estero,El aibe,-27.58601488,-64.2608784
+Santiago del estero,Abra grande,-27.293133016,-64.379064525
+Santiago del estero,Remes,-27.85658967,-64.53379074
+Santiago del estero,San benito,-28.14621,-64.48821
+Santiago del estero,El dean,-27.735169777,-64.305769166
+Santiago del estero,San vicente,-28.48865398,-64.13637705
+Santiago del estero,Santa catalina,-28.12767215,-64.78335763
+Santiago del estero,Santa maria,-27.963543299,-64.152936395
+Santiago del estero,Caspi corral,-27.390761513,-63.548956189
+Santiago del estero,Vaca huanuna,-27.474492606,-63.469937534
+Santiago del estero,Melero,-28.3169,-62.96468
+Santiago del estero,La nena - la simona,-28.37352779,-61.87555346
+Santiago del estero,Tres cruces,-27.20007,-64.68089
+Santiago del estero,Yuchan,-27.782216214,-62.900345101
+Santiago del estero,La noria,-28.578263,-64.115681
+Santiago del estero,Sauce solo,-28.57126879,-64.2544732
+Santiago del estero,Amama,-27.20879,-63.03976
+Santiago del estero,Villa brana,-27.34717422,-62.91397135
+Santiago del estero,Libertad,-27.075866881,-63.070890376
+Santiago del estero,Negra muerta,-27.50989965,-64.11713354
+Santiago del estero,Kilometro 49,-29.086799377,-63.875828156
+Santiago del estero,Campo grande,-26.372054029,-63.973543649
+Santiago del estero,Villa mercedes,-26.468147288,-64.167850181
+Santiago del estero,Santo domingo,-26.254688546,-63.755245864
+Santiago del estero,Amicha,-27.639726183,-64.864054427
+Santiago del estero,Lescano,-27.50364,-64.76452
+Santiago del estero,Los ovejeros,-27.497077387,-64.708892716
+Santiago del estero,Sotelo,-27.46616,-64.72653
+Santiago del estero,Los romanos - santo domingo,-27.80840504,-64.1842269
+Santiago del estero,Villa hipolita,-27.76267,-63.98916
+Santiago del estero,Vaca human,-28.919499805,-63.628810103
+Santiago del estero,Tio pozo,-28.404929221,-63.982684182
+Santiago del estero,Villa nueva,-28.330048232,-63.928170394
+Santiago del estero,Huachana,-26.41494,-63.50093
+Santiago del estero,Sumamao,-28.196757533,-64.035717273
+Santiago del estero,Ahi veremos,-25.72948778,-63.46601397
+Santiago del estero,Acos - pozo del arbolito,-27.68314,-64.97924
+Entre rios,San miguel,-32.149167419,-58.563439582
+Santiago del estero,San antonio - roldan,-27.80385,-63.11604
+Entre rios,Albardon - punta del monte,-33.06751963,-59.64367116
+Santiago del estero,Hoyon,-28.62926,-63.95973
+Misiones,Pozo azul,-26.34695049,-54.15002011
+Entre rios,Distrito tala,-31.735879,-60.044546
+Neuquen,Villa lago meliquina,-40.381687551,-71.261615279
+Santiago del estero,El sauzal,-27.489104672,-64.581838645
+Chaco,Colonia aborigen,-26.98340491,-60.23453298
+Santiago del estero,Atoj pozo,-28.2954,-63.86655
+Santiago del estero,Vuelta de la barranca,-27.872981127,-64.127603811
+Entre rios,Colonia reffino,-31.93650466,-60.374539185
+Entre rios,Estacion yuqueri,-31.396381239,-58.161153544
+Entre rios,El gato - loma limpia,-30.817385675,-59.04020264
+Entre rios,Colonia oficial n° 13,-30.6792,-59.1646
+Entre rios,Gonzalez calderon,-32.977748988,-59.412168071
+Entre rios,Las toscas,-30.494583172,-59.102198129
+Entre rios,Crucesitas tercera,-32.3889,-59.9333
+Entre rios,Costa uruguay sur,-33.07416698,-58.50488032
+Entre rios,Monte redondo (o 7° distrito),-32.953317596,-59.753801232
+Entre rios,Colonia tunas,-30.339389359,-58.211966115
+Entre rios,Sauce sur,-32.663736526,-59.212647335
+San luis,Los cajones,-32.025751305,-65.374936148
+Corrientes,Cecilio echavarria,-28.939317,-59.147804
+Corrientes,Cazadores correntinos,-29.978782726,-58.302435672
+Rio negro,Las grutas,-40.80609332,-65.084701976
+Santa fe,Hardy,-28.14476068,-59.261155344
+Santa fe,Los tabanos,-28.456547965,-59.982616002
+Santiago del estero,El cruce,-27.582545733,-63.288605805
+Misiones,Salto encantado,-27.082279787,-54.833485609
+Corrientes,9 de julio,-28.883931336,-58.78485627
+Rio negro,Arroyo ventana,-41.665393782,-66.086013555
+Buenos aires,General villegas,-34.415505456,-62.961855381
+Buenos aires,Esteban echeverria,-34.884979135,-58.477809937
+Cordoba,Villa huidobro,-34.837181772,-64.583357166
+Entre rios,Colonia ensayo,-31.875376802,-60.649121973
+Buenos aires,Monte,-35.704696756,-58.711562654
+Santa fe,Santo domingo,-31.122276836,-60.888885457
+Misiones,Tres capones,-28.00008727,-55.608042878
+Entre rios,Villa del rosario,-30.775064998,-57.842010243
+Cordoba,Manfredi,-31.844058563,-63.746074607
+Santiago del estero,Las tinajas,-27.46147289,-62.918808896
+La rioja,Arauco,-28.583403187,-66.803641294
+Cordoba,Cuesta blanca,-31.478778189,-64.577346691
+Buenos aires,Balcarce,-37.4085551,-58.1355794
+Cordoba,Dean funes,-30.422940937,-64.351669766
+Cordoba,Villa del prado,-31.617939758,-64.392492525
+Cordoba,Cavanagh,-33.478334899,-62.339346455
+Tucuman,Arcadia,-27.306110382,-65.534507752
+Corrientes,San luis del palmar,-27.52812434,-58.62991619
+Santiago del estero,Colonia el simbolar,-27.750315946,-63.795424786
+Santa fe,Los cardos,-32.3729135,-61.5457161
+Rio negro,Contralmirante cordero,-38.724663336,-68.158056091
+Santa fe,Santa maria norte,-31.547888772,-61.151227777
+Cordoba,San geronimo,-31.391979365,-64.923013659
+Santa fe,Palacios,-30.710669405,-61.623695205
+Salta,El tala,-26.061208725,-65.316596985
+Neuquen,Senillosa,-39.01130348,-68.433383391
+Cordoba,Las penas,-30.561752596,-64.001984207
+Tucuman,Acheral,-27.164539093,-65.429218168
+Entre rios,Aldea san juan,-32.703788501,-58.779062501
+Santa fe,Monigotes,-30.490135992,-61.63482247
+Misiones,San jose,-27.72963082,-55.730343864
+Corrientes,San antonio isla apipe grande,-27.453404151,-56.914652525
+Cordoba,San esteban,-30.919978406,-64.536003665
+La pampa,Santa rosa,-36.799221039,-64.125617981
+Jujuy,Calilegua,-23.787050688,-64.730065776
+Rio negro,Pilquiniyeu,-41.908386541,-68.342473245
+Entre rios,Altamirano sur,-32.159522191,-59.184184576
+Cordoba,Saldan,-31.314269681,-64.312904304
+Catamarca,Las juntas,-28.103883632,-65.899651364
+Formosa,Area sin gobierno,-24.31902043,-61.25791818
+Entre rios,Sosa,-31.738574273,-59.911508144
+Formosa,Ibarreta,-25.211319123,-59.857039844
+San luis,Estancia grande,-33.16844847,-66.06146551
+Cordoba,Ticino,-32.691927138,-63.435304438
+Chaco,Puerto eva peron,-26.661480093,-58.635581818
+Catamarca,El rodeo,-28.214151642,-65.873860063
+Entre rios,Gualeguaycito,-31.0659142,-58.09292394
+Tucuman,Tafi del valle,-26.816356394,-65.71792781
+Corrientes,Estacion torrent,-28.826623916,-56.469525963
+Neuquen,Tricao malal,-37.06895161,-70.38454137
+Santa fe,Pedro gomez cello,-30.038474343,-60.315243129
+Santa fe,Ramona,-31.093704177,-61.903231867
+Salta,Joaquin v gonzalez,-24.907824078,-64.286735717
+Jujuy,La esperanza,-24.22614768,-64.810173553
+Santa fe,Llambi campbell,-31.181964929,-60.630110505
+Cordoba,Isla verde,-33.24010715,-62.404426547
+Entre rios,Concepcion del uruguay,-32.475718164,-58.298985561
+Rio negro,Villa mascardi,-41.349553644,-71.509041629
+La pampa,Toay,-36.747396152,-64.367390702
+Cordoba,Sinsacate,-30.942857479,-64.088497437
+Entre rios,General almada,-32.837633475,-58.803816047
+Jujuy,Perico,-24.383194475,-64.995837064
+Salta,General pizarro,-24.19111798,-64.093690355
+Entre rios,Gobernador febre,-32.4774516,-59.92171173
+"Tierra del fuego, antartida e islas del atlantico sur",Ushuaia,-54.80364046,-68.316062477
+San luis,Quines,-32.28351144,-65.80227972
+Santa fe,Montes de oca,-32.56799702,-61.768076235
+Entre rios,Area sin gobierno,-31.45813887,-58.452086436
+Tucuman,El mollar,-26.8576011,-65.6752299
+Santa fe,San antonio de obligado,-28.382347094,-59.26457429
+Salta,General mosconi,-22.36534361,-64.105525713
+Buenos aires,Presidente peron,-34.9075871,-58.4348955
+La pampa,Maisonave,-35.04155585,-64.384712611
+Tucuman,Santa rosa de leales y laguna blan,-27.0940176,-65.1534815
+Cordoba,Carnerillo,-32.91412735,-64.022483826
+Santa fe,Constanza,-30.664633909,-61.320755216
+Cordoba,Cerro colorado,-30.096059933,-63.928773173
+San luis,Cortaderas,-32.563397622,-65.031530745
+Santiago del estero,La banda,-27.733906,-64.238961
+Entre rios,San victor,-30.48692836,-59.031651954
+Cordoba,Los zorros,-32.045928188,-63.201798167
+Rio negro,Cinco saltos,-38.796184831,-68.073433435
+Entre rios,Pueblo cazes,-31.993610038,-58.550952228
+Corrientes,Empedrado,-27.774806039,-58.499562731
+Cordoba,Arroyo los patos,-31.750081658,-65.004300188
+La pampa,Puelen,-37.340065549,-67.621850051
+Cordoba,Toro pujio,-31.109040183,-62.987650622
+Misiones,General urquiza,-27.042231279,-55.438123292
+Neuquen,Loncopue,-38.195521663,-70.599224337
+Misiones,Campo viera,-27.217711287,-55.083183556
+Cordoba,Alejo ledesma,-33.607612594,-62.626140572
+Jujuy,Palma sola,-23.940021515,-64.349639893
+Santa fe,Los laureles,-29.419324875,-59.719028473
+Catamarca,Santa maria,-26.708156586,-66.057388306
+Neuquen,Neuquen,-38.94928568,-68.083905762
+Misiones,Mojon grande,-27.750768837,-55.070987829
+Cordoba,Monte maiz,-33.20456209,-62.601248151
+Tucuman,San pablo y villa nougues,-26.783210754,-65.469711304
+San juan,Zonda,-31.529332145,-68.725341068
+La pampa,Mauricio mayer,-36.210663164,-64.033541226
+Tucuman,La florida y luisiana,-26.844019209,-65.092475857
+Tucuman,Burruyacu,-26.50033232,-64.741993821
+Cordoba,Guatimozin,-33.461741129,-62.43914345
+Cordoba,Onagoity,-34.770302122,-63.670323072
+Catamarca,Icano,-28.788305606,-65.100730234
+Cordoba,Alpa corral,-32.665106639,-64.74150181
+Santa fe,Villa guillermina,-28.2253457,-59.5851593
+San luis,El trapiche,-33.096430444,-65.990838383
+Chubut,Trevelin,-43.250016852,-71.351231844
+San juan,Jachal,-30.197818,-68.82920967
+Tucuman,Monte bello,-27.4738951,-65.6832192
+Formosa,Juan g bazan,-24.541813713,-60.8341897
+Santa fe,Gato colorado,-28.490138058,-61.160907125
+Corrientes,Gobernador martinez,-28.930866557,-58.971335779
+Cordoba,Las junturas,-31.8313973,-63.450636455
+Tucuman,Ancajuli,-26.62702,-65.60313
+Salta,Chicoana,-25.105602371,-65.536890354
+Santa fe,Las parejas,-32.71768772,-61.586297625
+Chubut,Epuyen,-42.232924712,-71.369506658
+Jujuy,Cusi cusi,-22.195691522,-66.420168475
+Cordoba,El brete,-30.672210058,-64.869907029
+Chaco,Coronel du graty,-27.889902115,-60.733386993
+Formosa,Estanislao del campo,-25.053192265,-60.093927183
+Santiago del estero,Forres,-27.898804531,-63.915324063
+Cordoba,Piquillin,-31.299584445,-63.759105072
+Cordoba,Caminiaga,-30.068225078,-64.052875898
+Buenos aires,Carmen de areco,-34.268046,-59.9192997
+Entre rios,Parana,-31.776236481,-60.543361135
+Entre rios,General campos,-31.524607834,-58.404773513
+Misiones,Cerro cora,-27.50860997,-55.603862144
+Neuquen,Area sin gobierno,-39.183082581,-69.37890625
+Rio negro,Ingeniero jacobacci,-41.326813424,-69.544126389
+Cordoba,Canada del sauce,-32.418596127,-64.687170815
+Chubut,Puerto madryn,-42.645615896,-65.064722967
+Neuquen,Piedra del aguila,-40.046553864,-70.077319579
+Santa fe,Chabas,-33.247067464,-61.357593556
+Santa fe,Santa margarita,-28.290949211,-61.703482025
+Cordoba,Alto de los quebrachos,-30.51295505,-65.157031069
+Cordoba,La rinconada,-30.184653789,-62.830142634
+Tucuman,Agua dulce y la soledad,-27.03225,-65.05974
+Santa fe,Villa san jose,-31.339134634,-61.622588386
+Cordoba,El crispin,-31.017971601,-63.605165059
+Santa fe,San javier,-30.5951232,-59.9436425
+Santa fe,Nare,-30.932459372,-60.500455822
+Santa fe,Caferata,-33.51620194,-62.134782229
+Chaco,La eduvigis,-26.804475578,-58.958545445
+Mendoza,La paz,-33.464515641,-67.605578504
+Santa fe,Totoras,-32.610377611,-61.324440932
+Entre rios,Laguna benitez,-30.476279489,-58.729636431
+Cordoba,Agua de oro,-31.058228128,-64.295579358
+Entre rios,Villa urquiza,-31.65075061,-60.377585516
+Formosa,Villa dos trece,-26.186462649,-59.368395058
+Chaco,Barranqueras,-27.518580789,-59.003673945
+Cordoba,General roca,-32.73051153,-61.917138712
+Corrientes,San cosme,-27.40298521,-58.54733407
+San luis,Las lagunas,-32.62981203,-65.551144129
+Salta,Nazareno,-22.42822668,-65.145404966
+Misiones,Azara,-28.057251205,-55.676799377
+Santiago del estero,Los quiroga,-27.677625832,-64.297813648
+La pampa,Realico,-35.036885754,-64.245420967
+Cordoba,Colonia vicente ag├£ero,-31.028374846,-64.017590367
+Cordoba,Transito,-31.425110953,-63.195403858
+Chubut,Gualjaina,-42.726757895,-70.535487613
+Santa fe,Esteban rams,-29.772671796,-61.488151235
+Santa fe,Pozo borrado,-28.939942303,-61.705599974
+Cordoba,Lutti,-32.298944103,-64.725437923
+Chubut,Viglione,-44.19885565,-71.666668164
+Neuquen,Villa del nahueve,-37.14198741,-70.73181913
+Buenos aires,Guamini,-36.816944122,-62.621276855
+Buenos aires,Chacabuco,-34.4575064,-60.180184513
+Cordoba,Las acequias,-33.282248697,-63.975876387
+Chaco,Laguna blanca,-27.21034133,-59.2276375
+Formosa,Buena vista,-25.071212266,-58.386779908
+Chaco,La clotilde,-27.178199339,-60.631574185
+Tucuman,Yerba buena,-26.782594681,-65.359565735
+Entre rios,El palenque,-31.619064233,-60.135412718
+Cordoba,Villa nueva,-32.434331967,-63.287559164
+Corrientes,Concepcion del yaguarete cora,-28.456798553,-58.230693821
+Cordoba,San pedro norte,-30.088758998,-64.155953673
+Neuquen,Anelo,-38.351444022,-68.791971559
+Santa fe,Maria susana,-32.26666958,-61.916566196
+Santa fe,Berna,-29.177899818,-59.944625308
+Cordoba,Capilla del monte,-30.837526709,-64.536700457
+Rio negro,Laguna blanca,-40.792595485,-69.881039958
+Mendoza,Lavalle,-32.40057462,-67.515305787
+Cordoba,Pampayasta norte,-32.24168273,-63.642186874
+Cordoba,Gutemberg,-29.698228417,-63.561080947
+Rio negro,San carlos de bariloche,-41.166635126,-71.43757454
+Misiones,Obera,-27.508067952,-55.128771871
+Formosa,Mision san francisco de laishi,-26.242301025,-58.630064242
+Formosa,Laguna gallo,-25.267775283,-58.742794835
+Santiago del estero,Pozo hondo,-27.193792707,-64.439314088
+Cordoba,General fotheringham,-32.323429584,-63.870425743
+San luis,Carolina,-32.812857164,-66.093232758
+Santa fe,Saladero mariano cabal,-30.900007464,-60.016594886
+Chubut,Paso del sapo,-42.737110995,-69.611002088
+San luis,Villa larca,-32.602006,-65.05370603
+Chubut,Cushamen,-42.176661103,-70.662618843
+Rio negro,Ingeniero huergo,-39.049464802,-67.217793659
+Santa fe,Alvear,-33.060584803,-60.685644012
+Tucuman,Los nogales,-26.746581459,-65.233417403
+La pampa,Winifreda,-36.21609983,-64.60941881
+Chubut,Comodoro rivadavia,-45.793575686,-67.503963496
+La pampa,Parera,-35.146293075,-64.500649123
+Buenos aires,General pueyrredon,-37.913076391,-57.552463852
+Jujuy,San salvador de jujuy,-24.1587721,-65.29728933
+Catamarca,Poman,-28.33781745,-66.54987231
+Cordoba,Portena,-31.013921147,-62.0633288
+Tucuman,Delfin gallo,-26.85468,-65.12602
+Formosa,El colorado,-26.311735464,-59.368443468
+Santiago del estero,El charco,-27.261711295,-64.653897342
+Chaco,Villa angela,-27.63381406,-60.793422896
+Cordoba,Monte cristo,-31.323035329,-63.856128743
+Santa fe,Villa saralegui,-30.7124095,-60.6588438
+Entre rios,Villaguay,-31.865441374,-59.029062835
+Santiago del estero,Area sin gobierno,-28.854589462,-64.83126831
+Santa fe,Vera y pintado,-30.0995961,-60.4496565
+Cordoba,Capitan general bernardo o higgins,-33.247202805,-62.269738359
+Formosa,San martin i,-24.531905301,-59.90205123
+Chubut,Gobernador costa,-44.052982606,-70.597920256
+Santa fe,Luis palacios,-32.784870423,-60.907637961
+Cordoba,San vicente,-31.854927457,-65.492127946
+Misiones,Concepcion de la sierra,-28.008006445,-55.442124228
+Catamarca,El alto,-28.395515442,-65.398735046
+Santa fe,Santo tome,-31.66484233,-60.762639984
+Salta,Rivadavia banda norte,-23.206073761,-63.180274963
+Santa fe,Pueblo marini,-31.040974548,-61.889882637
+San juan,Pocito,-31.629474322,-68.608076564
+Santiago del estero,Lugones,-28.341885204,-63.270669194
+Santiago del estero,Tacanitas,-28.613854158,-62.523836188
+Cordoba,Villa cura brochero,-31.706369083,-65.019110978
+Santiago del estero,Villa salavina,-28.815150316,-63.341063155
+Santa fe,Toba,-29.267588428,-60.172655901
+Cordoba,Chancani,-31.41728202,-65.445342134
+Chaco,Presidencia de la plaza,-26.887390483,-59.7405352
+Santiago del estero,Villa figueroa,-27.719163512,-63.462754109
+Chubut,Rio mayo,-45.696453817,-70.255980448
+San luis,Area sin gobierno,-33.790293261,-66.753123863
+Santa cruz,Lago posadas,-47.566781236,-71.743475631
+La pampa,Limay mahuida,-37.159712053,-66.674540036
+La rioja,Chamical,-29.933307648,-65.767944336
+Buenos aires,Pilar,-34.485898345,-58.87683357
+Salta,El bordo,-24.55378446,-65.10780492
+Santa fe,San martin de las escobas,-31.793093413,-61.546051117
+Santa fe,Villa eloisa,-32.964324157,-61.547833326
+Santa fe,Funes,-32.922782783,-60.812180283
+Corrientes,Alvear,-29.05258734,-56.56060936
+Cordoba,Las palmas,-31.380007624,-65.289975724
+Santa fe,San francisco de santa fe,-33.590540004,-62.124469393
+Cordoba,Chuna,-30.409496725,-64.538726844
+Cordoba,Colonia barge,-33.258541155,-62.608162827
+Buenos aires,General pinto,-34.471866608,-62.092647552
+Santiago del estero,Loreto,-28.326665429,-64.105600189
+Santiago del estero,Pozo betbeder,-26.437038187,-64.318435103
+Cordoba,Rosales,-34.171790726,-63.153479847
+Santa fe,Diaz,-32.375058824,-61.091442512
+Santa fe,Granadero baigorria,-32.861364166,-60.706215977
+Cordoba,Las gramillas,-31.088255513,-63.241844462
+Santa fe,Ramayon,-30.675815339,-60.499555379
+Entre rios,Pedernal,-31.671472966,-58.230791274
+Chubut,Rawson,-43.382120862,-65.044932568
+Tucuman,Los sosa,-27.09195137,-65.648391724
+Buenos aires,Vicente lopez,-34.532743264,-58.49109796
+Entre rios,Jubileo,-31.733673335,-58.634038044
+Neuquen,Huinganco,-37.115215302,-70.619155884
+Cordoba,Villa yacanto,-32.200447531,-64.821341085
+La pampa,Quetrequen,-35.054843932,-64.52136934
+Salta,El galpon,-25.387624741,-64.714851379
+Buenos aires,General juan madariaga,-37.202106,-57.4168401
+Cordoba,Canada de machado,-31.428924271,-63.587026451
+Cordoba,Bengolea,-33.027417314,-63.671927788
+Buenos aires,Saladillo,-35.5801859,-59.8586723
+Cordoba,La quinta,-31.062258846,-63.150128183
+Chaco,Villa berthet,-27.21971406,-60.332806224
+Santiago del estero,Colonia tinco,-27.47067281,-64.880761177
+Catamarca,Aconquija,-27.451195979,-66.019968827
+Chaco,Margarita belen,-26.916816527,-58.987718188
+Salta,Aguaray,-22.04019646,-63.947694681
+Tucuman,La cocha,-27.766714096,-65.600608826
+Chubut,Camarones,-44.798290873,-65.710599293
+Entre rios,Santa ana,-30.900497031,-57.931080953
+Cordoba,El rastreador,-33.664478732,-63.539236804
+Cordoba,Las caleras,-32.413348605,-64.551332706
+Buenos aires,Villarino,-38.7426179,-63.1062383
+Buenos aires,San pedro,-33.8011746,-59.7339285
+Neuquen,Villa la angostura,-40.785526276,-71.6218338
+Entre rios,Irazusta,-32.95109616,-58.88915796
+Jujuy,Abralaite,-22.969815379,-65.87698176
+Cordoba,Tosquita,-33.818824822,-64.456932741
+Cordoba,Pueblo italiano,-33.880722767,-62.840725031
+Cordoba,Los hoyos,-29.802434072,-63.627362284
+Misiones,Colonia victoria,-26.281223527,-54.613845637
+Tucuman,Area sin gobierno,-27.77762413,-65.509117127
+Cordoba,Canada de luque,-30.737087515,-63.723661878
+Santa fe,Barrancas,-32.244721828,-60.923983978
+Cordoba,Plaza luxardo,-31.304748884,-62.133302336
+Santa fe,Gobernador crespo,-30.36483469,-60.401168405
+Cordoba,Cabalango,-31.393104901,-64.563565264
+Salta,El quebrachal,-25.2675457,-63.958450317
+Buenos aires,General guido,-36.6656205,-58.0745242
+Misiones,Profundidad,-27.558519814,-55.703447407
+Cordoba,Las vertientes,-33.283946385,-64.578146226
+La pampa,Miguel cane,-36.154958179,-63.512154373
+La pampa,Bernardo larroude,-35.024076614,-63.581478678
+Santa fe,Classon,-32.5187599,-61.3693487
+Santa fe,Crispi,-31.741725213,-62.037876536
+Cordoba,Laguna larga,-31.778398722,-63.802736901
+Jujuy,Libertador general san martin,-23.884973526,-64.673904419
+Tucuman,Rio chico y nueva trinidad,-27.5124551,-65.3394543
+Santa fe,Providencia,-30.984586837,-61.02182815
+Cordoba,Arroyo cabral,-32.488982497,-63.401479449
+Entre rios,Alcaraz,-31.406708234,-59.593953011
+Santa fe,Pavon,-33.243075481,-60.406275794
+Santa fe,Lucio v lopez,-32.714729723,-61.022607357
+Buenos aires,San isidro,-34.479401812,-58.5074044
+Entre rios,El cimarron,-30.846564043,-59.077944559
+Ciudad de buenos aires,Comuna 9,-34.658368289,-58.501731952
+Santa fe,Alvarez,-33.128873398,-60.713039439
+Tucuman,Santa ana,-27.472232136,-65.684167542
+Santa fe,Peyrano,-33.54113786,-60.804329559
+Santa fe,San carlos centro,-31.728417999,-61.091395786
+Jujuy,Purmamarca,-23.764385223,-65.469772339
+Entre rios,Antelo,-32.533810255,-60.035696612
+Santa fe,Felicia,-31.246393988,-61.212881667
+Tucuman,Villa padre monti,-26.427768707,-65.080795288
+Entre rios,San ernesto,-31.837629846,-58.633441222
+Santa fe,Aguara grande,-29.854516983,-60.904865265
+Santa fe,Timbues,-32.669625268,-60.794354824
+Cordoba,Mattaldi,-34.480386734,-64.169503305
+Formosa,Colonia sarmiento,-24.6432909,-59.4336114
+Cordoba,La pampa,-30.943220475,-64.276534921
+Misiones,9 de julio,-26.414533311,-54.497611623
+Corrientes,Palmar grande,-27.913323542,-57.85867697
+Cordoba,Charras,-33.024167732,-64.045826241
+Tucuman,Gastona y belicha,-27.3126707,-65.4820785
+Chaco,La leonesa,-27.037959628,-58.706937718
+Cordoba,Pilar,-31.680451686,-63.88149798
+Santa fe,Gessler,-31.877044953,-61.128836765
+Tucuman,San andres,-26.933485031,-65.194259644
+Cordoba,Jesus maria,-30.981193738,-64.095771287
+Buenos aires,Tigre,-34.3277116,-58.608687
+Cordoba,Oncativo,-31.912835805,-63.683682032
+La pampa,Bernasconi,-37.902068191,-63.745079353
+La pampa,Sarah,-35.024692306,-63.686962378
+Santa fe,Murphy,-33.4928639,-61.83395
+Cordoba,Colonia videla,-31.917023912,-63.50329653
+Cordoba,San joaquin,-34.510639556,-63.713274696
+Santa fe,Empalme villa constitucion,-33.255594638,-60.389775871
+Santiago del estero,Tintina,-27.02592913,-62.662443997
+Catamarca,Huillapima,-28.515360023,-65.95517749
+Cordoba,Estacion juarez celman,-31.306907348,-64.17853146
+Corrientes,Mocoreta,-30.62171574,-57.89384176
+Rio negro,General enrique godoy,-39.079550122,-67.157550826
+Cordoba,Kilometro 658,-31.370747,-63.5325789
+Cordoba,Las saladas,-30.759468101,-63.203502729
+Chubut,El maiten,-42.068796126,-71.215834314
+Entre rios,Picada beron,-30.8561,-59.3493
+Entre rios,Lucas norte,-31.29401755,-58.90571994
+Neuquen,Sauzal bonito,-38.589513864,-69.070450045
+Ciudad de buenos aires,Comuna 6,-34.6168255,-58.44360311
+Jujuy,Caspala,-23.357236293,-65.118399736
+Salta,La poma,-24.592188174,-66.195291296
+Santa fe,Carreras,-33.598283457,-61.311768436
+Cordoba,Rosario del saladillo,-30.3528352,-63.4382652
+Santa fe,Zenon pereyra,-31.564397214,-61.898425061
+Misiones,Colonia delicia,-26.244541361,-54.590467561
+San luis,Nacion ranquel,-34.608619,-65.734852998
+Ciudad de buenos aires,Comuna 3,-34.623864473,-58.401885798
+Santa fe,Pavon arriba,-33.34215,-60.8606515
+Cordoba,Inriville,-32.943840524,-62.230548752
+Entre rios,Distrito sexto costa de nogoya,-32.819087944,-59.789226787
+Cordoba,El tio,-31.384548622,-62.828473765
+Cordoba,Los cisnes,-33.400060095,-63.471651556
+Cordoba,Villa ascasubi,-32.206674038,-63.810597435
+San luis,Zanjitas,-33.773693085,-66.373092651
+Cordoba,Santa rosa de rio primero,-31.151477207,-63.401591256
+Santa cruz,Puerto deseado,-47.751464928,-65.901204368
+Rio negro,Cipolletti,-38.965598021,-67.950955022
+Santa fe,Vera,-29.299720277,-60.890712297
+Neuquen,Los miches,-37.1908156,-70.74561356
+La pampa,Intendente alvear,-35.236869337,-63.592327452
+Jujuy,Tilcara,-23.570352014,-65.394079344
+Rio negro,Nahuel niyeu,-40.253646851,-66.606781006
+Misiones,Gobernador roca,-27.31961712,-55.39536423
+Santa fe,Pujato,-33.019573354,-61.043831649
+Buenos aires,Castelli,-36.103578,-57.814792
+Santa cruz,Comandante luis piedra buena,-49.985990981,-68.913081692
+Ciudad de buenos aires,Comuna 7,-34.635939228,-58.437695602
+La pampa,Lonquimay,-36.467626342,-63.623722345
+Santa fe,Reconquista,-29.2344858,-59.6725019
+Cordoba,Oliva,-32.041317402,-63.569382066
+La pampa,Speluzzi,-35.547293622,-63.820040334
+Entre rios,Distrito chiqueros,-32.172979005,-59.563413013
+Cordoba,Ordonez,-32.841271533,-62.866054921
+Formosa,Mojon de fierro,-26.034511972,-58.049930762
+Santa fe,Empalme san carlos,-31.548778087,-60.812722336
+Santiago del estero,La aurora,-27.519003369,-64.182073364
+Buenos aires,San cayetano,-38.346970947,-59.606382606
+Santa fe,Villa ocampo,-28.5214663,-59.3457614
+Tucuman,San jose de la cocha,-27.731596701,-65.582759521
+La pampa,General san martin,-37.978530134,-63.606585453
+Misiones,Olegario victor andrade,-27.565822036,-55.501725428
+Buenos aires,Pinamar,-37.144555777,-56.890291999
+Tucuman,Rio colorado,-27.13626,-65.39506
+Santa fe,San carlos norte,-31.674310577,-61.07625852
+Corrientes,Caa cati,-27.735075436,-57.605227557
+Formosa,Tres lagunas,-25.215364437,-58.513269491
+Salta,San antonio de los cobres,-24.26374054,-66.386131287
+Santa fe,San jeronimo del sauce,-31.611212476,-61.142518072
+Jujuy,Rosario de rio grande,-24.293113172,-64.881220845
+Buenos aires,Trenque lauquen,-36.0130646,-62.6706257
+Cordoba,Villa carlos paz,-31.418238021,-64.493344806
+Rio negro,El cain,-41.818287425,-68.077415238
+Catamarca,Valle viejo,-28.481868042,-65.635132665
+La pampa,Luan toro,-36.201681877,-65.09727824
+Tucuman,El bracho y el cevilar,-26.992101919,-65.181245025
+Salta,Tartagal,-22.606262207,-63.394313812
+Santiago del estero,Villa rio hondo,-27.634837303,-64.820279988
+Cordoba,Despenaderos,-31.817051593,-64.288989406
+Formosa,Riacho negro,-25.42475062,-57.7912538
+Cordoba,General cabrera,-32.811891084,-63.873696571
+Entre rios,Hernandarias,-31.23245007,-59.987257644
+Cordoba,General baldissera,-33.122017177,-62.303721256
+Cordoba,Colonia iturraspe,-31.207143324,-62.109918203
+Cordoba,Anisacate,-31.744155795,-64.393263101
+Santa fe,Tortugas,-32.751697154,-61.735957449
+Buenos aires,Coronel dorrego,-38.620494912,-60.880960343
+Santiago del estero,Ramirez de velazco,-29.243566964,-63.372447253
+Cordoba,Embalse,-32.206507688,-64.400622683
+Salta,La merced,-25.014152527,-65.393699646
+Cordoba,Saira,-32.406411637,-62.102983179
+Ciudad de buenos aires,Comuna 12,-34.57154113,-58.48785606
+Entre rios,Cerrito,-31.582171122,-60.074022315
+Santa fe,Arrufo,-30.23414953,-61.7285807
+Cordoba,Chilibroste,-32.332596925,-62.51359951
+Entre rios,Las tunas,-31.870609573,-59.732436108
+Cordoba,Matorrales,-31.714472041,-63.511852146
+Jujuy,Catua,-23.940210342,-66.821815491
+Cordoba,Alto alegre,-32.254462126,-62.813781833
+Formosa,El recreo,-25.066315255,-59.251351463
+Rio negro,Guardia mitre,-40.430295188,-63.67191401
+Catamarca,Belen,-27.668799948,-66.983185418
+La pampa,Pichi huinca,-35.647342393,-64.769528066
+Santiago del estero,Chaupi pozo,-27.528902881,-64.396358656
+Cordoba,Coronel baigorria,-32.849547895,-64.359859137
+Cordoba,Marull,-30.994522632,-62.825840108
+Cordoba,Villa general belgrano,-31.942027417,-64.616540614
+Cordoba,Las higueras,-33.089242221,-64.286822769
+Buenos aires,Ensenada,-34.875848555,-57.933629899
+Misiones,Campo ramon,-27.479699296,-54.963923404
+Jujuy,San francisco,-23.617466406,-64.954861229
+Buenos aires,Alberti,-35.109617833,-60.070551325
+Santa fe,La vanguardia,-33.359625797,-60.658456866
+Cordoba,Villa sarmiento,-34.121619574,-64.724049936
+Corrientes,Itati,-27.33472115,-58.18128404
+Cordoba,La playosa,-32.09969486,-63.032528965
+Chaco,Colonia benitez,-27.330588438,-58.945010275
+Santa fe,Margarita,-29.6901496,-60.055189
+Santiago del estero,Real sayana,-28.815129489,-62.761034546
+Mendoza,Santa rosa,-33.324573517,-68.010673523
+Entre rios,Walter moss,-31.364642364,-58.634441401
+Cordoba,La playa,-31.035025744,-65.345312225
+Santa fe,Rivadavia,-31.3087151,-61.0125869
+Santa fe,Las palmeras,-30.632634583,-61.627723389
+La rioja,General ocampo,-30.805494179,-66.092842038
+Salta,Profesor salvador mazza,-22.085733414,-63.677333832
+Salta,Vaqueros,-24.62766,-65.45747
+Salta,Seclantas,-25.330509957,-66.248446623
+Santa fe,Fray luis beltran,-32.785558188,-60.729123644
+Chaco,Laguna limpia,-26.496701391,-59.679937288
+Chaco,Makalle,-27.1738508,-59.26113326
+Formosa,Colonia pastoril,-25.670140461,-58.262630283
+Santa fe,Bombal,-33.460061522,-61.318932439
+Santa fe,Colonia raquel,-30.839223557,-61.489711164
+Entre rios,Tabossi,-31.804707756,-59.93791516
+Misiones,Montecarlo,-26.536899654,-54.64963662
+Buenos aires,Lomas de zamora,-34.762767641,-58.42679039
+La pampa,Falucho,-35.189081443,-64.103873225
+Entre rios,Mojones norte,-31.499843648,-59.118323231
+Misiones,El soberbio,-27.366389,-54.227239
+Entre rios,Colonia crespo,-31.662574809,-60.175114482
+Neuquen,Buta ranquil,-37.050787606,-69.873851086
+Santiago del estero,San pedro,-27.955073986,-64.107899764
+Entre rios,Concordia,-31.403742646,-58.039412827
+Santiago del estero,El colorado,-27.917442871,-62.117137896
+Salta,Isla de canas,-22.886420025,-64.657375719
+Cordoba,Lucio victorio mansilla,-29.80637172,-64.706541264
+Tucuman,Monteros,-27.167476664,-65.498777449
+Santa fe,Ituzaingo,-30.7814056,-61.1753126
+Cordoba,Talaini,-31.249692473,-65.167200042
+Cordoba,Colonia bismarck,-33.300301709,-62.713298641
+Buenos aires,Campana,-34.253040637,-58.958440037
+Entre rios,Las mercedes,-33.220262469,-58.850751863
+Entre rios,Alcaraz norte,-31.372534919,-59.695860792
+Catamarca,Ancasti,-29.119796753,-65.396270752
+Cordoba,Adelia maria,-33.631620222,-64.020837296
+Santa fe,Piamonte,-32.145866524,-61.981120218
+Corrientes,Cruz de los milagros,-28.808971156,-59.092598658
+Corrientes,Bella vista,-28.520547455,-58.768687164
+Cordoba,Wenceslao escalante,-33.172022848,-62.770000327
+Santa fe,Los molinos,-33.105489996,-61.326501533
+Entre rios,Pueblo brugo,-31.388301593,-60.093833404
+San juan,Caucete,-31.27914956,-67.5278115
+Jujuy,Aguas calientes,-24.555636846,-64.942420794
+Cordoba,Rio segundo,-31.650153972,-63.911863016
+Catamarca,Capayan,-29.059776306,-65.887626648
+San luis,Juan jorba,-33.61328063,-65.271750296
+La pampa,La maruja,-35.701488918,-65.10255352
+Entre rios,Estacion libaros,-32.23889742,-58.94615315
+Entre rios,Estacion escrina,-32.59323583,-58.903741651
+Santa fe,San guillermo,-30.360209853,-61.917827263
+Corrientes,Ituzaingo,-27.588180585,-56.69982819
+La rioja,San blas de los sauces,-28.451797491,-67.117897851
+Santa fe,Ceres,-29.882337128,-61.945237427
+Rio negro,Ojos de agua,-41.534892227,-69.85464597
+San luis,Bagual,-35.144848451,-65.567665245
+Buenos aires,General alvarado,-38.2440211,-58.1036131
+Santa fe,Arocena,-32.080027194,-60.977004964
+Santa fe,Villa minetti,-28.588630714,-61.558406924
+Cordoba,Colonia las pichanas,-31.245406629,-62.925666489
+Santa fe,Juan de garay,-29.69115297,-61.602441092
+Entre rios,Hocker,-32.087495845,-58.341705844
+Entre rios,Estacion raices,-31.920258813,-59.356709473
+Chubut,Los altares,-43.871192998,-68.430116878
+Entre rios,Cuchilla redonda,-33.082496643,-59.092739105
+Cordoba,Las varas,-31.801292159,-62.617104724
+Corrientes,Tabay,-28.306267818,-58.286296699
+Entre rios,Urdinarrain,-32.688131155,-58.888994554
+Santa fe,Puerto general san martin,-32.719002596,-60.733492539
+Buenos aires,Ezeiza,-34.812821628,-58.552165006
+Entre rios,Maria grande 2°,-31.651006976,-59.564455949
+Cordoba,Chajan,-33.556336135,-65.005269917
+Santa fe,Perez,-32.998811169,-60.77215921
+Neuquen,Taquimilan,-37.516910388,-70.250386371
+Rio negro,Darwin,-39.20269129,-65.74091723
+Santa fe,Candioti,-31.399524403,-60.749114929
+Entre rios,Don cristobal primero,-32.159564972,-59.815734863
+Rio negro,Rio chico,-41.716722784,-70.471083901
+Catamarca,Paclin,-27.935282862,-65.699367489
+Cordoba,Cosquin,-31.240571225,-64.465531257
+La pampa,Cuchillo co,-38.333678474,-64.642252696
+Salta,Animana,-25.925069535,-65.963488639
+Entre rios,Colonia santa maria y las margaritas,-30.556074949,-58.089122383
+Misiones,Puerto iguazu,-25.629453164,-54.566203183
+Cordoba,La paquita,-30.907054577,-62.215436182
+Santa fe,Colonia duran,-29.6104906,-60.0378222
+Santa fe,Golondrina,-28.558870958,-60.025191932
+Salta,El carril,-25.097923279,-65.36340332
+San luis,Saladillo,-33.196651459,-65.932792664
+Cordoba,Las isletillas,-32.510097987,-63.929022936
+Santiago del estero,Pozuelos,-27.34363384,-64.702675251
+Ciudad de buenos aires,Comuna 11,-34.61619362,-58.482957352
+Misiones,Bonpland,-27.482069689,-55.477420084
+Entre rios,Colonia viraro,-31.291345184,-59.428147141
+Salta,Guachipas,-25.68403,-65.21744
+Santa fe,Sastre,-31.769532524,-61.829452957
+Entre rios,Aldea eigenfeld,-31.885412846,-60.234448335
+Santa fe,Galvez,-32.032645592,-61.219961027
+Santa fe,Castellanos,-31.1551178,-61.7330738
+Santa fe,Canada rosquin,-31.962238253,-61.51263874
+Cordoba,Cintra,-32.308147633,-62.653118415
+Tucuman,Piedrabuena,-26.6812057,-64.7328482
+La pampa,Abramo,-37.894331329,-63.851502591
+Santa fe,San antonio,-31.212813418,-61.725720001
+Buenos aires,San miguel,-34.575140152,-58.696040989
+Entre rios,Ceibas,-33.499412405,-58.800354171
+Cordoba,San roque,-31.349690437,-64.459929392
+Misiones,San javier,-27.865323157,-55.134837653
+Jujuy,Coranzuli,-23.146064798,-66.248537489
+Misiones,Leandro n alem,-27.637358375,-55.34714448
+Cordoba,Santa maria de punilla,-31.270331986,-64.465335768
+San luis,El volcan,-33.251296607,-66.187702297
+Cordoba,Simbolar,-30.4752564,-63.985039522
+Santa fe,Tacuarendi,-28.420206247,-59.255674004
+Buenos aires,Adolfo alsina,-37.2547036,-62.6911852
+Entre rios,Paraje guayaquil,-30.983411854,-58.03954926
+Chubut,Facundo,-45.319271038,-69.972112735
+San luis,San luis,-33.337466193,-66.362460049
+Entre rios,Paso de las piedras,-31.690563881,-60.159061004
+Buenos aires,Saavedra,-37.951999697,-62.654939731
+Cordoba,Assunta,-33.633296201,-63.225906091
+Ciudad de buenos aires,Comuna 14,-34.573899984,-58.422436452
+Neuquen,Villa pehuenia,-38.969904368,-71.045741095
+San juan,Calingasta,-31.186006546,-69.462478638
+Cordoba,Rincon,-31.595385474,-63.615541428
+Formosa,San hilario,-26.024867679,-58.650072623
+Entre rios,Aldea valle maria,-31.992244009,-60.587850227
+Rio negro,Catriel,-37.881528863,-67.79455697
+Rio negro,Pilcaniyeu,-41.450405781,-70.682789463
+Chaco,Napenay,-26.731468711,-60.619028515
+Neuquen,Plottier,-38.951056161,-68.247840387
+"Tierra del fuego, antartida e islas del atlantico sur",Area sin gobierno,-51.806531825,-58.959658956
+Santa fe,Villa canas,-34.1177078,-61.6952619
+Cordoba,Villa santa cruz del lago,-31.374025722,-64.483112294
+Entre rios,San salvador,-31.579278177,-58.506066937
+Santa fe,Silva,-30.490703583,-60.408802032
+Cordoba,General deheza,-32.754929116,-63.785038352
+Santiago del estero,Matara,-28.112422977,-63.127605775
+Cordoba,Villa la bolsa,-31.728787957,-64.432417498
+San juan,Ullum,-31.465938511,-68.735333803
+La pampa,Rancul,-35.066198556,-64.683114986
+Cordoba,Los hornillos,-31.90173531,-64.990089004
+Formosa,Villa escolar,-26.621184482,-58.671833694
+Santa fe,Amenabar,-34.136118441,-62.422908485
+Santiago del estero,Villa silipica,-28.13556544,-64.082415863
+Santa fe,La sarita,-28.945835,-59.7883051
+Cordoba,Berrotaran,-32.452866921,-64.385440468
+Santiago del estero,Pampa de los guanacos,-26.206285599,-61.817893703
+Formosa,Porton negro,-24.966359898,-58.74197491
+Chubut,Rada tilly,-45.936801919,-67.565396024
+Neuquen,Villa puente picun leufu,-39.19669664,-70.17122043
+Misiones,Posadas,-27.476594927,-55.921699607
+Santiago del estero,Sumampa,-29.394585995,-63.371686651
+Tucuman,Escaba,-27.617860794,-65.817527771
+Entre rios,Santa anita,-32.176246632,-58.786482246
+Entre rios,Villa fontana,-31.908647497,-60.468352081
+Santiago del estero,San jose del boqueron,-26.115658347,-63.588004293
+Santa fe,Ibarlucea,-32.85125613,-60.788493665
+Cordoba,Conlara,-32.137966783,-65.223236085
+Buenos aires,Adolfo gonzales chaves,-38.06703,-59.873740005
+Tucuman,Sargento moya,-27.227820085,-65.6598562
+Cordoba,Pampayasta sud,-32.250758115,-63.651014033
+Entre rios,Colonia avellaneda,-31.768069051,-60.405022063
+Santa fe,Angeloni,-30.857517709,-60.648609868
+Formosa,Mision tacaagle,-24.979650568,-58.822743444
+Tucuman,Las cejas,-27.00737,-64.77975
+Entre rios,Nogoya,-32.395641642,-59.788076416
+Tucuman,San felipe y santa barbara,-26.874983553,-65.232226238
+Jujuy,El aguilar,-23.15337899,-65.5482353
+Jujuy,San antonio,-24.271027282,-65.272944492
+Entre rios,El redomon,-31.095880846,-58.290063733
+Santa fe,Tacural,-30.848107149,-61.592401815
+Buenos aires,Tres de febrero,-34.568406663,-58.603081886
+Cordoba,Villa rossi,-34.297937328,-63.268539714
+Formosa,Palo santo,-25.56390638,-59.336005984
+Santa fe,Aldao,-32.706985324,-60.81795182
+Cordoba,Luque,-31.646873629,-63.3447983
+Tucuman,La trinidad,-27.421777725,-65.497642517
+Cordoba,Copacabana,-30.643234976,-64.498512768
+Buenos aires,San andres de giles,-34.5361827,-59.5038768
+Entre rios,Gualeguaychu,-33.010032827,-58.516425795
+Tucuman,Cevil redondo,-26.762968002,-65.307947671
+Entre rios,Villa paranacito,-33.715624422,-58.659763145
+Entre rios,Isletas,-32.220537381,-60.364275802
+Jujuy,El condor,-22.383451244,-65.327904835
+San juan,San juan,-31.537197038,-68.525018317
+Cordoba,Monte ralo,-31.911574981,-64.239991846
+Santa fe,Venado tuerto,-33.801615968,-62.044360385
+San luis,Leandro n alem,-32.484916687,-66.128837585
+Cordoba,Coronel moldes,-33.623086874,-64.597103351
+Santa fe,San jose del rincon,-31.606147112,-60.569631685
+Salta,Metan,-25.529679813,-64.924538385
+Cordoba,Villa giardino,-31.036277394,-64.492889912
+Santa fe,Montefiore,-29.667869823,-61.867108288
+Entre rios,Lucas gonzalez,-32.385928948,-59.531300465
+Chaco,Hermoso campo,-27.487621616,-61.323881842
+Catamarca,San fernando,-27.33518,-66.90081
+Misiones,Martires,-27.40588392,-55.33529565
+La pampa,Alpachiri,-37.375881193,-63.773873591
+Salta,Las lajitas,-24.771749497,-64.45652771
+Entre rios,Las guachas,-32.470007544,-59.172662503
+Rio negro,Chelforo,-39.088163116,-66.520954661
+Buenos aires,Salliquelo,-36.751165381,-62.959957344
+Cordoba,Villa gutierrez,-30.656951171,-64.181959081
+La rioja,General belgrano,-30.554965529,-66.292134268
+Santiago del estero,Termas de rio hondo,-27.537764943,-64.80425714
+Entre rios,San jose de feliciano,-30.429341534,-58.76618814
+Cordoba,Morrison,-32.593642308,-62.83600846
+Tucuman,El naranjito,-26.9961211,-65.0865999
+San luis,La punilla,-33.14295371,-65.086130681
+Cordoba,La posta,-30.5653596,-63.516305369
+Santiago del estero,Icano,-28.680723899,-62.798982071
+La pampa,Quemu quemu,-36.053677481,-63.563243292
+Catamarca,Puerta de corral quemado,-27.235216069,-67.064430235
+Santa fe,Galisteo,-31.033841699,-61.357886692
+Santa fe,Laguna paiva,-31.309261927,-60.660781609
+Chubut,Gaiman,-43.33395568,-65.47259113
+Misiones,Alba posse,-27.524727349,-54.773950697
+Cordoba,Las perdices,-32.698188446,-63.708310318
+Cordoba,Elena,-32.572068411,-64.392951842
+Salta,Salta,-24.774097443,-65.138450623
+Santiago del estero,Tomas young,-28.60234676,-62.183515806
+Cordoba,James craik,-32.161305638,-63.46519195
+Formosa,Siete palmas,-25.201507662,-58.330676377
+Chaco,Puerto tirol,-27.412867994,-59.420157971
+San juan,9 de julio,-31.593641792,-68.407719672
+Cordoba,Carrilobo,-31.87164688,-63.116507442
+Santa fe,Sunchales,-30.946855513,-61.561250432
+Rio negro,Mainque,-39.028251798,-67.298454912
+Salta,Molinos,-25.93857193,-66.524742127
+Formosa,Riacho he-he,-25.361711702,-58.278251883
+Santa fe,Grutly,-31.27050269,-61.07275427
+San luis,Fortin el patria,-34.769756516,-65.522934518
+Tucuman,Garmendia,-26.62313,-64.57003
+Santa fe,Santa fe,-31.6437792,-60.6687989
+Santa fe,Miguel torres,-33.529950262,-61.466206873
+Buenos aires,Brandsen,-35.149938398,-58.050452867
+Chaco,Presidencia roca,-26.15353262,-59.82025691
+Santa cruz,Nuestra senora de los dolores de koluel kaike,-46.71682675,-68.227961459
+Cordoba,Villa parque siquiman,-31.345717088,-64.480257105
+Entre rios,Gobernador echague,-32.393370133,-59.275888681
+Santa fe,Huanqueros,-30.013674753,-61.219294765
+Santa fe,Colonia rosa,-30.302278589,-61.98449137
+Rio negro,General conesa,-40.104735426,-64.452961946
+La pampa,Macachin,-37.126296112,-63.82921122
+Jujuy,Caimancito,-23.739526932,-64.594100614
+Santiago del estero,Nueva francia,-28.197257042,-64.12895715
+Buenos aires,Monte hermoso,-38.981506538,-61.300545749
+Buenos aires,Tres lomas,-36.4465885,-63.0090639
+Corrientes,Tapebicua,-29.36232599,-57.069937951
+Neuquen,Coyuco cochico,-36.4849881,-70.22237166
+Cordoba,Ucacha,-33.03343928,-63.508257159
+Formosa,El potrillo,-23.15691557,-62.00043309
+Chaco,Tres isletas,-26.238541312,-60.342086254
+Mendoza,General alvear,-34.979260456,-67.659089321
+Santa fe,Canada rica,-33.517417556,-60.613296887
+Cordoba,Mi granja,-31.350110661,-63.999645099
+Formosa,Banco payagua,-26.707129703,-58.339074583
+Tucuman,El manantial,-26.8347321,-65.3144155
+Santiago del estero,Vilmer,-27.808087616,-64.090076456
+Santiago del estero,Laprida,-28.407354817,-64.454192782
+Santa fe,San jorge,-31.898003817,-61.860328778
+Entre rios,San marcial,-32.180062401,-58.930127203
+Santa fe,Nanducita,-30.372459923,-61.132601581
+Cordoba,Pozo nuevo,-29.702336397,-64.230261022
+Cordoba,Rayo cortado,-30.074259329,-63.824981824
+Santa fe,Colonia cello,-31.433849725,-61.841702171
+Tucuman,El chanar,-26.758360561,-65.069388892
+Buenos aires,Merlo,-34.669858136,-58.697930437
+Cordoba,Charbonier,-30.77208691,-64.544159553
+Cordoba,Las rabonas,-31.854449467,-64.98709706
+Cordoba,El chacho,-30.849700273,-65.365090379
+Buenos aires,Quilmes,-34.726964425,-58.318279562
+Entre rios,Lucas sur segundo,-31.451146,-58.706144
+Cordoba,Cruz del eje,-30.721859217,-64.807737731
+Santa fe,Eusebia y carolina,-30.94761357,-61.857773527
+Cordoba,Mina clavero,-31.6858934,-64.9529009
+Buenos aires,Junin,-34.49188,-60.95047
+Santiago del estero,Tapso,-28.442128141,-65.02445213
+Cordoba,San francisco,-31.427608887,-62.086633615
+Corrientes,Esquina,-30.02285,-59.4806088
+Ciudad de buenos aires,Comuna 10,-34.627686291,-58.483587278
+Formosa,Palma sola,-25.247551235,-57.976840379
+La pampa,Monte nievas,-35.861746406,-64.156967521
+San juan,Iglesia,-30.51059811,-69.45997571
+Buenos aires,Berazategui,-34.832640469,-58.100841229
+Formosa,General mosconi,-23.182718625,-62.304068544
+Rio negro,Comico,-41.063275512,-67.596560098
+Santa fe,Santa clara de saguier,-31.33735905,-61.818178378
+Santa fe,Canada ombu,-28.310830422,-59.983716645
+Tucuman,Tafi viejo,-26.762775048,-65.237117165
+Santiago del estero,Herrera,-28.485845127,-62.992646997
+Corrientes,Pedro r fernandez,-28.78160437,-58.679730741
+Entre rios,Mojones sur,-31.66580467,-59.308669624
+Santa fe,Hugentobler,-30.9183876,-61.7534509
+San luis,Navia,-34.772673367,-66.586278867
+Entre rios,San benito,-31.805371396,-60.404941064
+Cordoba,Capilla del siton,-30.572964085,-63.651741691
+Santa fe,Pujato norte,-31.5197752,-60.9288764
+Catamarca,Recreo,-29.286230087,-65.236183166
+Entre rios,Paso de la arena,-31.753732175,-60.176489634
+Chaco,General san martin,-26.412480425,-59.325469963
+Cordoba,Los cedros,-31.55717658,-64.402832148
+Entre rios,Mulas grandes,-30.368112262,-59.150675569
+Cordoba,Corralito,-32.025257244,-64.193158893
+Santiago del estero,Bandera,-28.873512946,-62.169826238
+Chubut,El hoyo,-42.067966664,-71.520670837
+Cordoba,Rio primero,-31.329183849,-63.621866727
+Santa cruz,Jaramillo - fitz roy,-47.025794031,-67.254285657
+La pampa,La adela,-38.963052677,-63.860888246
+Cordoba,Obispo trejo,-30.781192449,-63.413049434
+Cordoba,Camilo aldao,-33.123740826,-62.09659546
+Mendoza,Las heras,-32.595534534,-69.358205374
+Cordoba,Banado de soto,-30.7758992,-65.0684404
+San luis,Villa de praga,-32.533964078,-65.647704279
+Mendoza,Capital,-32.869913563,-68.862351111
+San luis,San pablo,-32.658342389,-65.308092041
+Santa fe,San agustin,-31.684777887,-60.941314745
+Cordoba,Rafael garcia,-31.646537395,-64.258478773
+Catamarca,Santa rosa,-28.152036469,-65.375723406
+Entre rios,Pueblo general belgrano,-33.016288846,-58.47604376
+Cordoba,Balnearia,-31.01070757,-62.667104401
+Santa fe,Colonia dolores,-30.383682587,-60.330725488
+Santa fe,Gaboto,-32.434376082,-60.818539094
+Cordoba,Colonia almada,-32.033345653,-63.862884693
+Neuquen,Bajada del agrio,-38.478192878,-70.085232529
+Santa fe,Tartagal,-28.749804529,-59.86602197
+Entre rios,Don cristobal segundo,-32.075259405,-59.99432302
+San luis,Villa la florida,-33.116758725,-66.002009002
+Entre rios,Puerto algarrobo,-31.110953745,-59.846725465
+Chaco,Resistencia,-27.517900467,-59.007217407
+Entre rios,La clarita,-31.977137505,-58.391762889
+Santa fe,Bouquet,-32.543165117,-61.851019919
+Jujuy,El carmen,-24.39946901,-65.27698224
+Buenos aires,Bragado,-35.1189423,-60.487914757
+Chaco,Machagai,-26.913802693,-59.935868332
+Buenos aires,Magdalena,-35.269568396,-57.575711745
+San luis,Santa rosa del conlara,-32.342308151,-65.207120661
+Cordoba,Las bajadas,-32.095406358,-64.331053555
+Tucuman,Trancas,-26.368832076,-65.295506468
+Chaco,Basail,-27.767302766,-59.256700222
+Santa fe,Pinero,-33.0759052,-60.7035545
+Rio negro,Clemente onelli,-41.244835005,-70.034202941
+Neuquen,Los chihuidos,-38.24221177,-69.4801093
+Entre rios,Colonia san justo,-31.111923218,-58.112392425
+Cordoba,Paso del durazno,-33.170455449,-64.047867008
+Misiones,Dos arroyos,-27.694171423,-55.258780169
+Jujuy,Pampichuela,-23.61138,-65.04423
+Santa fe,La pelada,-30.867947769,-60.971811681
+Santa fe,Avellaneda,-29.0165072,-59.6876264
+Catamarca,Tinogasta,-27.91052043,-67.62126418
+Cordoba,Los pozos,-30.515451669,-64.266444988
+Tucuman,Bella vista,-27.06516,-65.31373
+Santa fe,Pilar,-31.442015817,-61.260024961
+Neuquen,Ramon m castro,-38.865500621,-69.750265287
+San luis,Union,-35.154926106,-65.942446851
+Buenos aires,Hipolito yrigoyen,-36.3636748,-61.6430681
+Cordoba,Las playas,-30.689590014,-64.850883128
+Santa fe,Carrizales,-32.511287164,-61.030514788
+San luis,Lafinur,-32.053970337,-65.309768677
+Entre rios,Diamante,-32.067154944,-60.637736519
+Cordoba,Suco,-33.439472974,-64.831661086
+La rioja,Rosario vera penaloza,-31.391698874,-66.977990253
+Santa fe,Esmeralda,-31.617858648,-61.932925873
+Entre rios,Estacion lazo,-32.871839761,-59.422349185
+San luis,Tilisarao,-32.732928111,-65.291527438
+Salta,Rivadavia banda sur,-24.85134697,-63.18038559
+San luis,La vertiente,-32.797502775,-65.756897432
+Tucuman,Las talitas,-26.778724147,-65.203773288
+Cordoba,Pacheco de melo,-33.760057509,-63.489858977
+Santa fe,Presidente roca,-31.229697906,-61.610103624
+Cordoba,Pincen,-34.837929144,-63.91558047
+Santa fe,Coronda,-31.9260566,-60.9103037
+Santa fe,Villada,-33.287479763,-61.551724322
+Santa fe,Curupaity,-30.39791189,-61.651804422
+Santa fe,Fidela,-31.0526576,-61.800269
+Entre rios,La verbena,-30.489808653,-58.59381964
+Entre rios,Basavilbaso,-32.383724213,-58.859649658
+Cordoba,Calchin oeste,-31.863386841,-63.278168375
+La pampa,Dorila,-35.776322951,-63.716840693
+Jujuy,Rodeito,-24.27233,-64.83303
+Entre rios,Aldea spatzenkutter,-31.948529271,-60.580396642
+Misiones,Colonia alberdi,-27.356965585,-55.232658571
+Cordoba,Miramar,-30.914516352,-62.67491838
+Santa fe,Ricardone,-32.773680549,-60.786927658
+Santa fe,Eustolia,-31.577744851,-61.783666183
+Santiago del estero,Weisburd,-27.30962504,-62.540058055
+Cordoba,Villa amancay,-32.186392833,-64.570452981
+Corrientes,Ita ibate,-27.564962488,-57.4420337
+La pampa,Algarrobo del aguila,-36.401146719,-67.148401595
+Salta,El potrero,-25.713747025,-64.689498901
+Cordoba,Panaholma,-31.626892878,-65.058665895
+Catamarca,Los altos,-27.98468074,-65.42005177
+Santiago del estero,Colonia alpina,-30.03288486,-61.985884742
+Salta,Payogasta,-24.89315309,-66.033773339
+Tucuman,Manuel garcia fernandez,-26.955703391,-65.272073063
+Buenos aires,Patagones,-39.8314661,-62.6989544
+Misiones,Almafuerte,-27.52056664,-55.343376625
+Cordoba,Estacion general paz,-31.1067387,-64.1839443
+La rioja,Chilecito,-29.177202489,-67.440831631
+Cordoba,Idiazabal,-32.813142667,-63.032910122
+Santiago del estero,San pedro de guasayan,-28.00447768,-65.101662912
+Cordoba,Colonia prosperidad,-31.60577479,-62.427888211
+Santa fe,Arminda,-33.265861526,-60.96691884
+Formosa,Tatane,-26.398718683,-58.357560049
+Cordoba,Comechingones,-31.16854859,-63.607582092
+Tucuman,Medina,-27.418836093,-65.53334502
+Rio negro,El cuy,-39.923091219,-68.336949843
+La pampa,Guatrache,-37.623868582,-63.685536954
+Cordoba,Villa san esteban,-31.6335474,-62.896766817
+Santa fe,Capivara,-30.461502817,-61.272273513
+Cordoba,San jose,-31.957325901,-65.315208348
+Santa fe,Malabrigo,-29.360471651,-59.877511598
+Santa fe,Santa maria centro,-31.521689275,-61.312561286
+Tucuman,Los gomez,-27.2817004,-65.2525519
+Entre rios,Colonia celina,-31.568445206,-60.264148712
+Buenos aires,Lanus,-34.710860922,-58.372504746
+Cordoba,Villa los patos,-32.763745038,-62.727795489
+Catamarca,Andalgala,-27.536895548,-66.335056893
+San luis,Candelaria,-32.060749113,-65.827691372
+Santa fe,Juncal,-33.7043821,-61.1787956
+Santa fe,Armstrong,-32.883607324,-61.643654455
+Entre rios,La fraternidad y santa juana,-30.646598943,-58.125835184
+Cordoba,Huanchilla,-33.665522725,-63.637261836
+Santa fe,Godeken,-33.402405547,-61.844930673
+Entre rios,Xx de setiembre,-32.38662414,-59.663073658
+Cordoba,Tancacha,-32.240207025,-63.979946605
+Chaco,Cote lai,-27.778495788,-59.604564666
+Corrientes,Bonpland,-29.87793885,-57.53288465
+Cordoba,Italo,-34.791182071,-63.781208389
+Tucuman,Alto verde y los guchea,-27.379399249,-65.607925867
+Formosa,Pozo de maza,-23.569183248,-61.705533482
+Santiago del estero,Rapelli,-26.422638984,-64.482336011
+Formosa,Villa general guemes,-24.752945691,-59.491640561
+Santa fe,Elortondo,-33.701656017,-61.616372706
+Salta,San lorenzo,-24.704942034,-65.470510545
+Cordoba,Riobamba,-34.051121118,-63.732153288
+Jujuy,Arrayanal,-24.093396133,-64.823874205
+La pampa,Trenel,-35.571042736,-64.102788083
+Buenos aires,Chascomus,-35.6058214,-57.8918391
+Corrientes,Colonia carlos pellegrini,-28.537340033,-57.171231041
+Formosa,Villa del carmen,-26.252259098,-58.252552869
+La pampa,Caleufu,-35.67488646,-64.55765326
+Santa fe,Las petacas,-31.751980801,-62.137401506
+Misiones,Corpus,-27.127803879,-55.509417929
+Santa fe,Alejandra,-29.910356675,-59.82816122
+Entre rios,Ingeniero sajaroff,-31.95693363,-58.849117461
+Cordoba,Esquina,-31.077291126,-63.793562779
+Buenos aires,Mercedes,-34.782428,-59.2836152
+Entre rios,Colonia baylina,-31.787220977,-58.533742816
+La rioja,Vinchina,-28.287342071,-68.219291687
+Buenos aires,Rivadavia,-35.870386735,-63.374201069
+San luis,Alto pencoso,-33.430636384,-66.927966912
+Santiago del estero,Villa union,-29.411784517,-62.685741703
+Cordoba,Ranqueles,-34.843693784,-64.098774092
+Cordoba,Marcos juarez,-32.691309981,-62.105794673
+Cordoba,Saturnino maria laspiur,-31.702931951,-62.484018085
+Santa fe,Rosario,-33.006598377,-60.69319668
+San luis,Nogoli,-32.917375283,-66.325760206
+San luis,Naschel,-32.916821594,-65.375547681
+Corrientes,Gobernador virasoro,-28.07963077,-55.98898452
+Santa fe,Coronel fraga,-31.176158617,-61.919462002
+Mendoza,Guaymallen,-32.867449439,-68.801598358
+Neuquen,Paso aguerre,-39.339397844,-69.844214795
+Tucuman,Villa quinteros,-27.227448,-65.6009384
+Cordoba,Alejandro roca,-33.356451445,-63.720550392
+Cordoba,Villa quillinzo,-32.266732936,-64.520492877
+Santa fe,El araza,-29.133493678,-59.947314592
+Tucuman,Juan bautista alberdi,-27.561292648,-65.598258972
+Rio negro,Villa llanquin,-40.923910205,-71.033857977
+Neuquen,Varvarco - invernada vieja,-36.904371926,-70.713916368
+Santa fe,Hersilia,-30.005676537,-61.839646768
+Entre rios,Colonia avigdor,-31.154928207,-59.448753357
+Santa fe,Jacinto l,-30.737034052,-60.975951125
+Santa fe,El rabon,-28.1685413,-59.231278
+Santiago del estero,Anatuya,-28.46791858,-62.84860248
+Corrientes,Monte caseros,-30.251552724,-57.638814001
+Tucuman,Santa lucia,-27.07421,-65.49389
+Buenos aires,Coronel pringles,-38.215409427,-61.314584777
+Cordoba,Media naranja,-30.623310466,-64.951540614
+Jujuy,Yavi,-22.227981567,-65.401756287
+Santa fe,Sa pereyra,-31.572151395,-61.378223111
+Santa fe,Colonia belgrano,-31.911894084,-61.402383536
+Jujuy,Santa catalina,-21.915353184,-66.250799531
+Buenos aires,Capitan sarmiento,-34.1010274,-59.7782315
+Buenos aires,General san martin,-34.559516911,-58.577276931
+Santa fe,Recreo,-31.493580756,-60.735411089
+Neuquen,Las ovejas,-36.988134333,-70.748700131
+La rioja,Famatina,-28.659575346,-67.652960556
+San luis,Buena esperanza,-34.758278797,-65.250369169
+Santa fe,Susana,-31.357596391,-61.516438996
+Ciudad de buenos aires,Comuna 13,-34.574642744,-58.450968205
+Catamarca,San fernando del valle de catamarca,-28.332107544,-65.894065857
+Rio negro,Rio colorado,-39.041876855,-63.998590736
+Buenos aires,Ramallo,-33.767449781,-60.092734367
+Cordoba,Paso viejo,-30.768683577,-65.186470019
+Cordoba,Las canadas,-31.067046956,-64.790165566
+Buenos aires,Pila,-36.1771663,-58.5830034
+Cordoba,Las penas sud,-32.534851186,-64.105229196
+Tucuman,San javier,-26.76703,-65.36869
+Santa fe,Colonia bossi,-30.669124523,-61.78960303
+Ciudad de buenos aires,Comuna 2,-34.585876008,-58.39499618
+Corrientes,Santa ana de los guacaras,-27.49960327,-58.610266678
+San luis,Fortuna,-35.128291864,-65.381821892
+Buenos aires,Las flores,-35.881548351,-59.40633699
+Cordoba,Santiago temple,-31.387125301,-63.418207801
+San luis,Las chacras,-32.543513229,-65.74463869
+Corrientes,Colonia santa rosa,-28.1795677,-57.94580847
+San luis,Carpinteria,-32.410249512,-65.011392677
+San luis,Arizona,-35.722914503,-65.318721036
+Corrientes,Saladas,-28.25829909,-58.59966984
+Cordoba,Ambul,-31.519528,-65.0622882
+Entre rios,La esmeralda,-30.23482193,-58.52768153
+Chaco,Taco pozo,-25.248153347,-62.769997045
+Cordoba,Altos de chipion,-30.956350763,-62.337888122
+Santa cruz,Rio gallegos,-51.621434984,-69.229050929
+Santa fe,Colonia mascias,-30.799058,-60.0066737
+Entre rios,Nueva escocia,-31.647316386,-58.015812607
+Corrientes,Lomas de vallejos,-27.848507817,-58.021773063
+San luis,Los molles,-32.439544751,-65.010682268
+Buenos aires,Necochea,-37.891826961,-59.286697778
+Corrientes,San roque,-28.506686737,-58.511143929
+Cordoba,Las albahacas,-32.933389088,-64.706153259
+Santiago del estero,Santiago del estero,-27.790647,-64.262274
+Jujuy,Santa ana,-23.311861038,-64.950027466
+Buenos aires,General rodriguez,-34.676446296,-58.970418863
+Cordoba,Villa parque santa ana,-31.591731902,-64.350300338
+Misiones,Santiago de liniers,-26.390586614,-54.394709928
+Santa fe,Elisa,-30.69807971,-61.048759365
+Buenos aires,Azul,-36.779514497,-59.858633171
+Ciudad de buenos aires,Comuna 5,-34.629960008,-58.418840374
+Entre rios,Quebracho,-31.848047377,-60.092748772
+Cordoba,Arroyo algodon,-32.201966599,-63.162786186
+Buenos aires,Canuelas,-35.2637758,-58.6725328
+Buenos aires,Carlos casares,-35.6123422,-61.2490329
+Rio negro,San javier,-40.74725095,-63.264652497
+La pampa,La humada,-36.160430908,-68.129722595
+Rio negro,Cervantes,-39.033181579,-67.386247766
+Santiago del estero,Quimili,-27.634290978,-62.356886297
+Rio negro,Aguada de guerra,-41.06390171,-68.384381035
+Santiago del estero,Fortin inca,-29.104055666,-61.843162612
+Santa fe,Maria teresa,-34.006284983,-61.900439675
+Buenos aires,San nicolas,-33.6042287,-60.4178226
+Santa fe,Ataliva,-31.02879715,-61.477912903
+Chubut,Dolavon,-43.309297579,-65.708738839
+Formosa,Las lomitas,-24.69183,-60.5856
+Cordoba,San marcos sud,-32.630327553,-62.481971262
+Cordoba,Seeber,-30.923972645,-61.973737428
+Cordoba,Huerta grande,-31.06009272,-64.484304267
+Buenos aires,Maipu,-36.7984265,-57.2717848
+Cordoba,Eufrasio loza,-29.924722635,-63.588915213
+Jujuy,Pampa blanca,-24.532993738,-65.074414122
+Santa fe,Cavour,-31.383304878,-61.01659635
+Cordoba,Jovita,-34.514736598,-63.941510935
+Cordoba,Santa eufemia,-33.176752963,-63.28203587
+Chaco,Puerto vilelas,-27.510609085,-58.938994466
+San luis,Paso grande,-32.876973728,-65.634530152
+Corrientes,San lorenzo,-28.13146033,-58.766832102
+Entre rios,Segui,-31.908860715,-60.098966815
+Entre rios,San pedro,-30.71798651,-58.14124226
+La pampa,Carro quemado,-36.723377228,-65.224739075
+Rio negro,Penas blancas,-37.688801948,-67.869548711
+Santiago del estero,Cuatro bocas,-28.878939619,-61.815567083
+Santa fe,Berabevu,-33.341415221,-61.862280981
+Corrientes,Yatayti calle,-29.053958115,-58.964093622
+San luis,Villa del carmen,-32.889823174,-65.04242119
+Entre rios,Conscripto bernardi,-30.971952194,-59.112238461
+La pampa,Colonia santa teresa,-37.57537932,-63.54911308
+Salta,Angastaco,-25.902706146,-66.28187561
+San luis,San martin,-32.413269046,-65.675930669
+Tucuman,El mojon,-27.20500946,-64.923820496
+Entre rios,Tezanos pinto,-31.87354562,-60.497023532
+Cordoba,San francisco del chanar,-29.697188616,-63.941310304
+Entre rios,Antonio tomas,-31.405954925,-59.955585648
+Salta,San ramon de la nueva oran,-22.524717,-64.441231
+Santiago del estero,Antaje,-27.654105761,-64.22410786
+Cordoba,Viamonte,-33.747066973,-63.098906226
+Misiones,Cerro azul,-27.64238024,-55.39404911
+Jujuy,Barrios,-22.246277957,-65.527871706
+Buenos aires,Malvinas argentinas,-34.479093312,-58.698974163
+San juan,25 de mayo,-31.763268919,-68.222296635
+Entre rios,San justo,-32.408502425,-58.477433481
+Santa fe,Fuentes,-33.17444165,-61.075053698
+Cordoba,Monte de los gauchos,-33.6371004,-63.8889678
+Formosa,Mariano boedo,-26.110635741,-58.488427052
+La rioja,Capital,-29.168859482,-66.663505554
+Santa fe,Portugalete,-30.2093054,-61.3692368
+Santa fe,San gregorio,-34.18002038,-61.74553607
+Catamarca,Londres,-27.695116877,-67.172050163
+Santa fe,Soutomayor,-30.936357272,-61.164084302
+Santa fe,Juan b molina,-33.528065474,-60.43844166
+Tucuman,Raco,-26.6880029,-65.5278222
+Chubut,Tecka,-43.493582082,-70.813560832
+Formosa,Ingeniero guillermo nicasio juarez,-23.897600413,-61.853822048
+Buenos aires,Pehuajo,-35.8939834,-61.9282323
+Cordoba,La carlota,-33.420167937,-63.296980262
+Santa fe,Aaron castellanos,-34.350001613,-62.266605944
+Cordoba,Colonia valtelina,-31.05295483,-62.235437861
+San luis,Justo daract,-33.858583448,-65.187040876
+Cordoba,Cruz alta,-33.006994728,-61.810972604
+Cordoba,Chazon,-33.077259828,-63.275435286
+Buenos aires,San vicente,-35.112752,-58.351046
+Chubut,Trelew,-43.248353857,-65.310381332
+Jujuy,Cangrejillos,-22.47203906,-65.55108858
+Corrientes,Paso de los libres,-29.680186321,-57.111057438
+Corrientes,Yapeyu,-29.405753713,-56.803539344
+Entre rios,La paz,-30.746867292,-59.586435125
+Cordoba,Villa tulumba,-30.437600607,-64.070936748
+La pampa,Adolfo van praet,-35.01791303,-64.035117862
+Cordoba,Los cerrillos,-31.973789996,-65.437644252
+Neuquen,Centenario,-38.827577708,-68.153219164
+Neuquen,Mariano moreno,-38.764259127,-70.038666979
+Santiago del estero,Palo negro,-29.649850767,-62.018638062
+Santa fe,Ingeniero chanourdie,-28.745075843,-59.668359592
+Neuquen,Barrancas,-36.824737296,-69.916478291
+Santa fe,Los amores,-28.1051804,-60.3122958
+Corrientes,Mariano i loza,-29.376366559,-58.1960231
+Misiones,General alvear,-27.405135384,-55.199623978
+Santa fe,Christophersen,-34.174790243,-62.050479684
+Neuquen,Rincon de los sauces,-37.38990759,-68.930994328
+Ciudad de buenos aires,Comuna 15,-34.585521898,-58.479122611
+Corrientes,Perugorria,-29.469768183,-58.846677868
+Entre rios,Aldea salto,-31.926035858,-60.548385272
+Santa fe,Arroyo seco,-33.13151135,-60.50788847
+Santiago del estero,Chauchillas,-27.528089769,-64.550311528
+Santa fe,Casalegno,-32.263830624,-61.126148866
+Santa fe,Saguier,-31.325104952,-61.677737332
+La rioja,General lamadrid,-29.020751554,-68.225371392
+Santa fe,Tacurales,-30.907049127,-61.69553045
+Santa fe,Fighiera,-33.195018779,-60.470603846
+Santa fe,Esperanza,-31.482972775,-60.806868229
+Cordoba,Colonia san bartolome,-31.528322298,-62.724493386
+Formosa,Pozo del tigre,-24.897599769,-60.318789022
+Entre rios,Viale,-31.871433082,-60.009922527
+Corrientes,Chavarria,-28.954921818,-58.571648983
+La pampa,Colonia santa maria,-37.495243578,-64.224880548
+Cordoba,Villa candelaria norte,-29.870544454,-63.330903991
+Misiones,Loreto,-27.370332718,-55.535385132
+Cordoba,Falda del carmen,-31.585463268,-64.454881454
+Cordoba,Tuclame,-30.748528475,-65.237541069
+Neuquen,Junin de los andes,-39.949472014,-71.070333561
+Santa fe,Ambrosetti,-30.016999569,-61.576578501
+Cordoba,Villa de soto,-30.9217145,-65.1096644
+Entre rios,Aldea grapschental,-31.956372314,-60.496105198
+Santa fe,Humberto primo,-30.9329099,-61.3843442
+Formosa,Gran guardia,-25.862849634,-58.885991502
+Tucuman,Atahona,-27.41750045,-65.287839993
+Formosa,San martin dos,-24.436837181,-59.655180809
+Santa fe,Coronel bogado,-33.2621478,-60.5497137
+Tucuman,Colalao del valle,-26.495542347,-66.033334157
+Santa fe,Egusquiza,-31.125511647,-61.604133104
+Santa fe,La penca y caraguata,-30.348496443,-60.521785339
+Salta,Cerrillos,-24.877431441,-65.478464216
+Santa fe,Chovet,-33.600782513,-61.60466466
+La pampa,Ataliva roca,-36.87195836,-64.78146927
+Santa fe,Colonia bicha,-30.855781134,-61.850914742
+Santa fe,Santurce,-30.186645274,-61.178528022
+Buenos aires,Pergamino,-33.709027041,-60.584259905
+Cordoba,Villa de las rosas,-31.962095401,-65.038313866
+Jujuy,Monterrico,-24.46123612,-65.119054262
+Santa fe,Marcelino escalada,-30.581949306,-60.469386044
+San luis,Villa de la quebrada,-33.016174193,-66.292046481
+Salta,Iruya,-22.66190686,-65.17760715
+Jujuy,Maimara,-23.691682816,-65.441177368
+Cordoba,Laboulaye,-34.123612206,-63.388646306
+Salta,Los toldos,-22.252895305,-64.68166766
+Chubut,Alto rio senguer,-44.979763031,-71.38379669
+Chaco,Los frentones,-26.050910639,-61.310261235
+Neuquen,San martin de los andes,-40.07851216,-71.32269243
+Santa fe,Villa trinidad,-30.20023653,-62.041480633
+Cordoba,Bialet masse,-31.326687444,-64.45446895
+Santiago del estero,Taboada,-28.024413356,-63.678050073
+Entre rios,Molino doll,-32.310040928,-60.420206355
+Buenos aires,Moreno,-34.558659572,-58.816301089
+Santa fe,Campo andino,-31.311922,-60.552673
+Rio negro,Norquinco,-41.843448612,-70.894393215
+Chaco,General capdevila,-27.361784579,-61.38289668
+Buenos aires,Coronel de marina l rosales,-38.881352735,-62.074953609
+Cordoba,La cautiva,-33.978591388,-64.084298946
+Entre rios,Las garzas,-31.42871404,-59.745788593
+Chaco,Concepcion del bermejo,-26.59087292,-61.10037754
+Rio negro,Mamuel choique,-41.769841643,-70.170863222
+Tucuman,Estacion araoz y tacanas,-27.057115247,-64.921812399
+Santa fe,Monje,-32.358735659,-60.942904301
+Santa fe,Fortin olmos,-29.135335922,-60.941509247
+Santiago del estero,Ardiles,-27.445260676,-64.457810756
+San luis,Lavaisse,-33.822147684,-65.423793436
+Santa fe,Matilde,-31.793216088,-60.981805978
+Chaco,Ciervo petiso,-26.42041845,-59.67902394
+Santa fe,Casilda,-33.1290247,-61.2278154
+Catamarca,La puerta,-28.056472498,-65.826084415
+Entre rios,Gobernador mansilla,-32.540447235,-59.340122223
+Corrientes,Juan pujol,-30.482641085,-57.915701592
+La pampa,General acha,-37.373672669,-64.603896471
+Santiago del estero,Villa atamisqui,-28.510080128,-63.739522409
+Misiones,Jardin america,-27.04816718,-55.163201312
+Cordoba,San pedro,-31.936824408,-65.219240222
+Santa cruz,Puerto san julian,-49.307703595,-67.731970293
+Misiones,San vicente,-27.125678572,-54.274419343
+Santa fe,Cacique ariacaiquin,-30.658136407,-60.230735649
+Catamarca,Pozo de piedra,-27.56616796,-67.14046925
+Santa cruz,Rospentek,-51.663932893,-72.142698831
+Santa fe,San mariano,-31.711571188,-61.437266116
+San luis,San francisco del monte de oro,-32.55476157,-66.09236842
+Santiago del estero,Selva,-29.741196587,-61.930503099
+Misiones,Garupa,-27.507005854,-55.854885496
+Cordoba,General levalle,-34.00983248,-63.92253675
+Santa fe,Rafaela,-31.248248241,-61.499811794
+Entre rios,Piedras blancas,-31.22761133,-59.87876821
+Cordoba,Rio de los sauces,-32.450881,-64.5312326
+Cordoba,Hernando,-32.411930575,-63.630349867
+San juan,Angaco,-31.443939788,-68.421768817
+Chubut,Sarmiento,-45.59051972,-69.070682517
+Santiago del estero,Medellin,-28.667558337,-63.704196472
+Cordoba,Colonia las cuatro esquinas,-31.173585161,-63.33759219
+La pampa,Unanue,-37.588088989,-64.306556702
+Santa fe,San genaro,-32.373538394,-61.360656921
+Entre rios,La ollita,-32.417759503,-59.159969542
+Jujuy,El fuerte,-24.260420872,-64.410351108
+Entre rios,Raices oeste,-31.84670952,-59.5767705
+San juan,Valle fertil,-31.301124573,-67.31943512
+Santa fe,Villa mugueta,-33.313934931,-61.057069529
+Santa fe,La cabral,-30.087643801,-61.179707055
+Entre rios,Villa elisa,-32.207627708,-58.395923579
+Entre rios,Colonia merou,-31.934056411,-60.31815496
+Cordoba,Pozo del molle,-32.019438986,-62.91991826
+Santa fe,San fabian,-32.138371872,-60.983266025
+Santa fe,Arroyo aguiar,-31.394466,-60.663274
+San luis,Beazley,-33.75773411,-66.645960031
+Chaco,Fontana,-27.416076006,-59.050434901
+Santa fe,La gallareta,-29.482112885,-60.54384613
+Cordoba,La carolina el potosi,-33.186843371,-64.725112966
+Cordoba,La higuera,-31.013954842,-65.102031367
+Santa fe,Romang,-29.500610787,-59.925008093
+Cordoba,Malvinas argentinas,-31.44352944,-63.996379395
+Entre rios,San ramon,-30.7974916,-58.175638466
+Rio negro,Dina huapi,-41.069193423,-71.162193326
+La pampa,General pico,-35.48140196,-63.49637054
+Santa fe,Virginia,-30.74025296,-61.340966593
+Corrientes,Curuzu cuatia,-29.519231796,-58.560455322
+Cordoba,La cumbrecita,-31.896964388,-64.775158943
+Santa fe,Theobald,-33.312217256,-60.312051359
+Santiago del estero,Lilo viejo - patay,-26.940456676,-62.956568869
+Neuquen,Los catutos,-38.784754548,-70.142187725
+Santa fe,Uranga,-33.264529996,-60.708334586
+Cordoba,Alta gracia,-31.645618195,-64.481617153
+Corrientes,Colonia liebig s,-27.58052037,-56.29095591
+Cordoba,Noetinger,-32.366741643,-62.312071767
+Salta,Coronel moldes,-25.35043474,-65.29592341
+Chaco,General pinedo,-27.16571088,-61.46933735
+Cordoba,Colonia anita,-31.143862946,-62.213586292
+Santa fe,Santa isabel,-33.889489266,-61.696590656
+Cordoba,Plaza de mercedes,-30.978051454,-63.259619203
+Cordoba,Alcira,-32.757065291,-64.337859929
+Cordoba,Colonia caroya,-31.05636014,-63.978088371
+Jujuy,La mendieta,-24.314359736,-64.970708472
+Entre rios,Hasenkamp,-31.513305241,-59.836969624
+Corrientes,Mercedes,-28.860206604,-57.585815442
+Santa fe,Bernardo de irigoyen,-32.170930619,-61.157274828
+Tucuman,Manuela pedraza,-27.23168,-65.32687
+Cordoba,Villa del rosario,-31.554011335,-63.534148901
+Santa cruz,Gobernador gregores,-48.752122325,-70.24420359
+Santa fe,Los quirquinchos,-33.376991828,-61.712194307
+Rio negro,General roca,-39.055737401,-67.593530106
+Misiones,Santa maria,-27.776354039,-55.513703976
+Corrientes,Ramada paso,-27.365928932,-58.300308751
+San juan,Sarmiento,-31.951457638,-68.65109413
+Salta,General ballivian,-23.053714752,-63.452102661
+La pampa,Ingeniero luiggi,-35.40253094,-64.65214438
+Neuquen,Zapala,-38.922679901,-70.102546692
+Chaco,Fuerte esperanza,-24.656984269,-62.059540151
+Entre rios,Espinillo norte,-31.7924159,-60.31068902
+Santiago del estero,La canada,-27.727658809,-63.717668602
+Cordoba,Chalacea,-30.754570727,-63.568226594
+Cordoba,Sacanta,-31.663303574,-63.045321209
+Santiago del estero,Malbran,-29.335211061,-62.331479461
+Santiago del estero,Los juries,-28.448475591,-62.033598084
+Buenos aires,Lincoln,-34.8260525,-61.6627452
+Cordoba,Mayu sumaj,-31.46686464,-64.542763476
+Corrientes,Tatacua,-28.4048435,-58.3102563
+Cordoba,Villa maria,-32.412083611,-63.249995124
+Cordoba,San marcos sierras,-30.736334315,-64.682568089
+Santa fe,Cayastacito,-31.153503732,-60.503877831
+Cordoba,San javier y yacanto,-32.011135101,-64.986968994
+Cordoba,Villa allende,-31.305533636,-64.248016929
+Entre rios,Sir leonard,-31.389667947,-59.503212381
+Buenos aires,Florentino ameghino,-34.7967747,-62.4456913
+Cordoba,Nicolas bruzzone,-34.438229501,-64.338370732
+Santa fe,Hipatia,-31.176505,-61.086359
+Buenos aires,Lezama,-35.994953155,-57.981071472
+Formosa,Clorinda,-25.36881317,-57.652494301
+Ciudad de buenos aires,Comuna 1,-34.588424343,-58.375935913
+Chubut,Las plumas,-43.722397964,-67.286995667
+Entre rios,Rocamora,-32.49653366,-58.96134594
+Chubut,Dique florentino ameghino,-43.698741,-66.472951
+Entre rios,Paso duarte,-31.20293553,-58.624106428
+Salta,Rosario de lerma,-24.98027,-65.72701
+Jujuy,Volcan,-23.8409709,-65.29808427
+Corrientes,Santo tome,-28.666713715,-56.289718628
+Santa fe,La lucila,-30.419663533,-61.003307314
+Santa fe,Nelson,-31.267075451,-60.76213554
+Chaco,Samuhu,-27.34423628,-60.51690421
+Santa fe,Maria juana,-31.676627574,-61.753600977
+Cordoba,La cruz,-32.303405572,-64.483108974
+Misiones,Colonia polana,-27.011231772,-55.284469265
+Cordoba,Dique chico,-31.751852052,-64.362764305
+Santa fe,Las bandurrias,-32.199189965,-61.492794045
+La pampa,Relmo,-36.257383787,-63.448130203
+Catamarca,Corral quemado,-27.053670064,-66.903892145
+Cordoba,Malena,-33.489341086,-64.432000805
+Entre rios,Colonia carrasco,-31.337257149,-59.557657628
+Entre rios,Aldea san antonio,-31.853797836,-60.172546006
+Entre rios,Estaquitas,-30.925127029,-59.559711456
+Corrientes,San miguel,-28.00845784,-57.601233564
+Cordoba,Punta del agua,-32.575428175,-63.81015809
+Cordoba,Serrano,-34.469981896,-63.537559528
+Santa fe,Wheelwright,-33.79429428,-61.211440947
+Santa fe,Villa amelia,-33.127176962,-60.709028225
+Cordoba,San clemente,-31.716654652,-64.626586905
+Tucuman,Teniente berdina,-27.050034787,-65.487583142
+Entre rios,Macia,-32.09995028,-59.38050648
+Santa cruz,Pico truncado,-46.793898124,-67.95757049
+Cordoba,Colonia marina,-31.248506634,-62.36396456
+Rio negro,Valle azul,-39.140482745,-66.728564169
+Cordoba,Villa concepcion del tio,-31.322468902,-62.814474576
+Ciudad de buenos aires,Comuna 8,-34.665468844,-58.446522525
+Jujuy,Abra pampa,-22.67947,-65.97212
+Cordoba,Colonia bremen,-33.463497219,-62.73238512
+La pampa,Victorica,-36.204859368,-65.440375273
+Cordoba,El manzano,-31.081761714,-64.299832416
+Santa fe,Villa ana,-28.428385544,-59.864160058
+Santa cruz,Tellier,-47.648768608,-66.044635683
+Formosa,General belgrano,-24.938828356,-59.029087728
+Tucuman,El polear,-27.50332216,-65.568692445
+Tucuman,Amaicha del valle,-26.596217,-65.8573856
+Tucuman,Colombres,-26.88959,-65.127
+Chaco,Presidencia roque saenz pena,-26.932593152,-60.580613585
+Cordoba,Villa elisa,-32.748777576,-62.330674404
+Buenos aires,Moron,-34.617707173,-58.601533043
+Cordoba,Villa los aromos,-31.735959806,-64.43892794
+Santa fe,Villa gobernador galvez,-33.02148056,-60.623970032
+Misiones,El alcazar,-26.846267609,-54.739753574
+Misiones,Campo grande,-27.166084895,-55.02916527
+Buenos aires,Escobar,-34.351670413,-58.783252674
+Formosa,Subteniente perin,-25.535039729,-60.019082763
+"Tierra del fuego, antartida e islas del atlantico sur",Rio grande,-53.787047345,-67.713235072
+Santa fe,Garibaldi,-31.652027726,-61.805390751
+Entre rios,La hierra,-30.45654346,-58.43305481
+Cordoba,Tanti,-31.386469039,-64.600365935
+Cordoba,Rio cuarto,-33.124263122,-64.348737703
+Santiago del estero,Donadeu,-26.718418255,-62.687963797
+Salta,Pichanal,-23.825447082,-64.076782227
+Santa fe,Landeta,-32.013814701,-62.06117713
+Santa fe,Las rosas,-32.3421082,-61.7218263
+Santa fe,Sargento cabral,-33.43301286,-60.63019069
+Jujuy,San pedro de jujuy,-24.231302,-64.868169
+Cordoba,Los surgentes,-32.912115248,-62.066534142
+Santa fe,San bernardo,-28.7034496,-61.3393232
+Entre rios,Guardamonte,-32.08263587,-59.308277224
+Tucuman,El cercado,-27.17899,-65.54918
+Cordoba,Tala huasi,-31.472446933,-64.565150769
+Cordoba,San basilio,-33.497854252,-64.315182824
+Cordoba,Impira,-31.796592924,-63.651120767
+La pampa,Catrilo,-36.557666779,-63.434623718
+Cordoba,Sagrada familia,-31.28972823,-63.445471703
+Cordoba,Diego de rojas,-31.028640417,-63.340279552
+Neuquen,Manzano amargo,-36.660886,-70.659952
+Chaco,Juan jose castelli,-25.79428509,-60.40970143
+Corrientes,Santa lucia,-29.020359674,-58.993923895
+Cordoba,Candelaria sud,-30.839230597,-63.800846595
+Cordoba,La falda,-31.090434308,-64.528657235
+Santa fe,Guadalupe norte,-28.945302204,-59.563415193
+Misiones,Candelaria,-27.463603395,-55.800580105
+Neuquen,Cutral co,-38.936601614,-69.241339033
+Cordoba,Pascanas,-33.124987293,-63.042695738
+Cordoba,Sebastian elcano,-30.161446264,-63.593450386
+La pampa,Arata,-35.741376357,-64.447959893
+Santa fe,San jose de la esquina,-33.114048529,-61.703312346
+Tucuman,Santa cruz y la tuna,-27.38656188,-65.45638949
+Tucuman,La ramada y la cruz,-26.65855,-64.93144
+Corrientes,Parada pucheta,-29.905345401,-57.574369351
+Santa fe,Progreso,-31.139768955,-60.990254157
+Corrientes,Beron de astrada,-27.384935379,-57.692176827
+Tucuman,Esquina y mancopa,-27.022314072,-65.229652405
+Santa fe,Colonia margarita,-31.686833422,-61.649296876
+Cordoba,La poblacion,-32.06600318,-65.030908601
+Cordoba,San carlos minas,-31.175590416,-65.101705427
+Neuquen,Plaza huincul,-38.929070953,-69.202159443
+Tucuman,Huasa pampa,-27.9087682,-65.5666946
+Misiones,San ignacio,-27.251232072,-55.530492495
+Entre rios,Aldea brasilera,-31.892286452,-60.591797747
+Entre rios,Villa mantero,-32.398709126,-58.744063898
+Santa fe,San eugenio,-32.076895386,-61.117423493
+Entre rios,Federal,-30.9016679,-58.896935872
+Corrientes,Goya,-29.2232586,-59.312563
+Chubut,Rio pico,-44.182993241,-71.370056536
+Santa cruz,28 de noviembre,-51.578758153,-72.208041088
+Chaco,Colonia popular,-27.346722389,-59.072234226
+Santa fe,Nuevo torino,-31.346882383,-61.235725734
+Entre rios,Santa luisa,-31.76792444,-59.729249998
+Entre rios,La picada,-31.726710082,-60.2971793
+Cordoba,Unquillo,-31.240896079,-64.261887201
+Santa fe,Cepeda,-33.398420866,-60.62411142
+Corrientes,Corrientes,-27.4064,-58.782760001
+Catamarca,San jose,-26.791933134,-66.037877634
+Entre rios,Faustino m parera,-32.804431428,-58.882633399
+Entre rios,Laguna del pescado,-32.68938541,-60.00899482
+Neuquen,Villa traful,-40.651533624,-71.406973343
+Tucuman,Monteagudo,-27.51436,-65.17293
+Jujuy,Vinalito,-23.667830037,-64.413830233
+Buenos aires,Berisso,-34.919020922,-57.790995496
+Entre rios,Aranguren,-32.244313006,-60.162798819
+Catamarca,Los varela,-27.788925546,-65.876253689
+Cordoba,Canals,-33.562382718,-62.885597404
+Misiones,Arroyo del medio,-27.698002675,-55.406478886
+Chaco,Charadai,-27.873800911,-59.939569589
+Cordoba,Saladillo,-32.933160488,-62.342877434
+Cordoba,Colazo,-31.964293094,-63.383401105
+Santa fe,Arroyo leyes,-31.528617938,-60.475666235
+Buenos aires,Bolivar,-36.602579326,-61.36186255
+Chaco,La verde,-27.15454632,-59.367625056
+Jujuy,Humahuaca,-23.35559375,-65.34644022
+Mendoza,Godoy cruz,-32.917135245,-68.919097106
+Chaco,Capitan solari,-26.927072253,-59.592914311
+Buenos aires,Exaltacion de la cruz,-34.327300355,-59.075990546
+Cordoba,Los chanaritos (cruz del eje),-30.602189439,-64.941656402
+Cordoba,Colonia italiana,-33.342742245,-62.279842071
+Jujuy,Tres cruces,-22.917289039,-65.587400333
+Cordoba,Calmayo,-32.023744308,-64.464163684
+Misiones,Fachinal,-27.6320979,-55.704019706
+Buenos aires,General alvear,-35.9013417,-60.0893187
+Formosa,Pirane,-25.73064179,-59.107520591
+Misiones,Colonia aurora,-27.299656475,-54.499764343
+Misiones,25 de mayo,-27.371571994,-54.747522488
+Mendoza,Maipu,-32.861735542,-68.489615422
+Rio negro,Cerro policia,-39.041858727,-67.807597054
+Santiago del estero,Nueva esperanza,-26.228170837,-64.216535054
+Santa fe,Sancti spiritu,-34.00952856,-62.242450344
+Chaco,Las palmas,-27.036006316,-58.645295188
+Rio negro,Villa regina,-39.128346366,-67.048112514
+Santa fe,San justo,-30.859743005,-60.442186823
+Formosa,Pozo del mortero,-24.406440368,-61.031313748
+La rioja,Coronel felipe varela,-29.322704622,-68.223074129
+Salta,Tolar grande,-24.654569626,-67.303604126
+Tucuman,El naranjo y el sunchal,-26.61443,-65.05016
+Tucuman,Las talas,-27.00924,-65.31517
+Corrientes,Garavi,-28.19843729,-55.76588676
+Ciudad de buenos aires,Comuna 4,-34.631070072,-58.356830411
+Entre rios,El quebracho,-30.98312136,-59.66460371
+Santiago del estero,Choya,-28.533610733,-64.777089379
+Santa fe,San cristobal,-30.285390239,-60.959827338
+Entre rios,Medanos,-33.436099574,-59.067595211
+Santa fe,Florencia,-28.0909241,-59.2679515
+Entre rios,Maria grande,-31.660055679,-59.830745284
+Santa fe,Las tunas,-31.572237064,-60.995928799
+Rio negro,Lamarque,-39.423265292,-65.701450498
+Entre rios,Estacion camps,-32.113320744,-60.229901797
+Entre rios,Durazno,-31.98658542,-59.280462307
+San juan,Rivadavia,-31.52584843,-68.631671585
+Chaco,Las garcitas,-26.54943054,-59.821664441
+Cordoba,Santa catalina,-33.205938452,-64.434816448
+Tucuman,7 de abril,-26.37993,-64.68218
+Santiago del estero,Estacion simbolar,-27.67378811,-64.134991938
+Misiones,Puerto rico,-26.873695789,-55.107953685
+Neuquen,Caviahue - copahue,-37.874121153,-71.053779247
+Chaco,Colonia elisa,-26.989668082,-59.554971777
+Neuquen,Aguada san roque,-37.999479177,-68.923110398
+Cordoba,Buchardo,-34.722314204,-63.508013062
+Cordoba,Las calles,-31.832529381,-64.985672914
+Corrientes,Mburucuya,-28.034720946,-58.233471328
+Buenos aires,Tornquist,-38.056826633,-62.078261831
+Jujuy,Valle grande,-23.518585205,-64.889854431
+Neuquen,Quili malal,-38.321317863,-69.814368756
+Formosa,Laguna naick neck,-25.219391051,-58.123079126
+Entre rios,1° de mayo,-32.217173111,-58.495365095
+Cordoba,La granja,-30.959464551,-64.275416561
+La pampa,Coronel hilario lagos,-35.02186343,-63.818977368
+Santa fe,Capitan bermudez,-32.828234945,-60.716820755
+Entre rios,Rincon de nogoya,-32.784082256,-59.906601183
+Tucuman,Leales,-27.215,-65.24213
+San luis,Renca,-32.771768074,-65.363760501
+Buenos aires,Zarate,-34.0413041,-59.0810209
+Corrientes,Guaviravi,-29.328128602,-56.720822822
+Entre rios,Villa libertador san martin,-32.069756175,-60.462446394
+Santiago del estero,El bobadal,-26.750382111,-64.364819095
+Tucuman,Chicligasta,-27.43752861,-65.187431335
+Rio negro,Colan conue,-40.670608413,-69.111254558
+San luis,Juana koslay,-33.260822412,-66.23810614
+Cordoba,Los reartes,-31.919856078,-64.575503707
+Cordoba,Guanaco muerto,-30.38637854,-65.088771059
+Formosa,General lucio v mansilla,-26.654180225,-58.629321476
+Santa fe,Coronel arnold,-33.106617539,-60.966501559
+Entre rios,San jaime de la frontera,-30.339627349,-58.308091597
+Santiago del estero,Las delicias,-26.706460276,-63.962722918
+Santa fe,Chanar ladeado,-33.325840985,-62.03864967
+Cordoba,La laguna,-32.801414982,-63.244004566
+La pampa,La reforma,-37.552004942,-66.226853897
+Misiones,Gobernador lopez,-27.661524571,-55.212445559
+Buenos aires,Leandro n alem,-34.497398435,-61.545344763
+Tucuman,Ranchillos y san miguel,-27.0071699,-64.9816
+Santa fe,Pueblo esther,-33.07309694,-60.578919543
+Salta,Colonia santa rosa,-23.43534,-64.33206
+Misiones,Santa ana,-27.43374193,-55.57917878
+Catamarca,Antofagasta de la sierra,-25.715950857,-67.702712376
+Cordoba,Monte buey,-32.917528034,-62.4576576
+Neuquen,Octavio pico,-37.586510488,-68.268607594
+Neuquen,Santo tomas,-39.821800728,-70.102888485
+Buenos aires,Lujan,-34.589808104,-59.01371547
+San luis,Alto pelado,-33.830280304,-66.204048157
+Cordoba,Villa ciudad parque los reartes,-31.9121105,-64.5299938
+Santa fe,Salto grande,-32.668022047,-61.089048652
+Buenos aires,La costa,-36.655211149,-56.694952068
+Entre rios,Aldea protestante,-32.011978035,-60.61726225
+Entre rios,Gualeguay,-33.10727734,-59.29100426
+Chaco,Avia terai,-26.524236939,-60.571935257
+Santa fe,Traill,-31.922599122,-61.702447196
+Mendoza,Tupungato,-33.37926256,-69.18719967
+Entre rios,Yeso oeste,-31.007424774,-59.389286797
+Santa fe,Cabal,-31.103990777,-60.727152649
+Cordoba,Villa de pocho,-31.488089484,-65.283035386
+Chaco,Pampa del infierno,-26.506397441,-61.176490197
+Neuquen,Covunco abajo,-38.517411606,-69.725521916
+Tucuman,Lamadrid,-27.613161087,-65.283843994
+Tucuman,Quilmes y los sueldos,-27.08415,-65.23432
+Santa fe,Cayasta,-31.299427007,-60.263601337
+Entre rios,Ibicuy,-33.82577528,-59.026407506
+Entre rios,Sauce montrull,-31.7463195,-60.355229708
+Salta,Campo quijano,-24.45124629,-65.95126805
+Cordoba,La paz,-32.236736298,-65.037712097
+Cordoba,Toledo,-31.519901376,-64.045340108
+Salta,Cachi,-25.230600357,-66.26133728
+Chaco,Charata,-27.376891185,-60.858685319
+Rio negro,Valcheta,-40.677861779,-66.165326136
+Santiago del estero,Otumpa,-27.330554489,-62.226401843
+Buenos aires,General paz,-35.451905725,-58.269541772
+Entre rios,Pronunciamiento,-32.32707807,-58.531732784
+Chubut,Aldea epulef,-43.234116595,-69.711293777
+Entre rios,General ramirez,-32.177271443,-60.198560581
+Cordoba,Chanar viejo,-29.913502395,-63.857741654
+Buenos aires,Rauch,-36.354129966,-59.206957523
+Buenos aires,Chivilcoy,-34.7721301,-60.1661253
+Santa fe,Garabato,-28.886562031,-60.185393831
+Cordoba,Villa ciudad de america,-31.777219326,-64.532077975
+Cordoba,San ignacio,-32.166785673,-64.516397206
+Misiones,Puerto libertad,-25.921671337,-54.582120987
+Entre rios,Rosario del tala,-32.302633916,-59.14457921
+Santiago del estero,El cuadrado,-28.291333744,-61.7207811
+Cordoba,Bouwer,-31.529256149,-64.168866606
+Santa cruz,Bajo caracoles,-47.446149004,-70.928515561
+Santa fe,Acebal,-33.243650558,-60.837195481
+Cordoba,San lorenzo,-31.682227676,-65.02556854
+Corrientes,Sauce,-29.84793767,-58.80912815
+Cordoba,La cesira,-33.951861116,-62.974489414
+Santa fe,Melincue,-33.661914426,-61.457688741
+Santiago del estero,Vilelas,-27.953265369,-62.545688818
+Santa fe,Josefina,-31.330813247,-61.980428086
+Entre rios,Herrera,-32.491234389,-58.602912606
+Mendoza,Lujan de cuyo,-32.997529631,-69.317680251
+Santa fe,Maggiolo,-33.724423631,-62.247839186
+Santiago del estero,Gramilla,-27.296511056,-64.587322881
+Buenos aires,San fernando,-34.208974,-58.582379
+Buenos aires,Baradero,-33.909603805,-59.388201713
+Misiones,Puerto piray,-26.523791593,-54.591654762
+La pampa,Gobernador duval,-38.741340766,-66.436065336
+Formosa,Mayor vicente e,-26.204868152,-59.07803318
+Cordoba,La calera,-31.3562371,-64.3697064
+Misiones,Guarani,-27.520331746,-55.161363477
+Cordoba,Serrezuela,-30.63920263,-65.381300962
+Cordoba,Devoto,-31.403980918,-62.306139386
+Formosa,Fortin sargento 1° leyes,-24.550304852,-59.390271557
+Cordoba,Silvio pellico,-32.250633809,-62.931650119
+Chubut,Colan conhue,-43.242597705,-69.930218186
+Santiago del estero,Santos lugares,-26.692088187,-63.55849016
+Rio negro,Aguada cecilio,-40.847873781,-65.839327459
+Mendoza,Tunuyan,-33.56520091,-69.17117062
+Santa fe,La chispa,-33.544670401,-61.973632428
+Entre rios,Alcaraz sur,-31.288879085,-59.862062675
+Cordoba,Ballesteros,-32.545381588,-62.983300521
+Santa fe,Soledad,-30.622553838,-60.916611263
+Jujuy,Puesto del marquez,-22.53517977,-65.698839942
+Buenos aires,Marcos paz,-34.738346987,-58.888083995
+San luis,Nueva galia,-35.1124747,-65.253210916
+Entre rios,Hernandez,-32.338069297,-60.030140478
+Santa cruz,El turbio,-51.680533852,-72.087486069
+Buenos aires,Ituzaingo,-34.616869581,-58.6932875
+Mendoza,Rivadavia,-33.230464307,-68.483725605
+Cordoba,Etruria,-32.940515709,-63.247256515
+Santa fe,Helvecia,-31.11562,-60.1333209
+Santa fe,Villa constitucion,-33.232413391,-60.332498827
+La pampa,Colonia baron,-36.208427429,-63.702777862
+Salta,Hipolito yrigoyen,-23.250027036,-64.244505894
+Corrientes,San carlos,-27.76987511,-55.8537136
+Rio negro,Rincon treneta,-40.850827743,-66.981684693
+Misiones,Caraguatay,-26.728209792,-54.727820957
+Cordoba,Justiniano posse,-32.883580112,-62.680276704
+Buenos aires,Lobos,-35.3373969,-59.225241
+Cordoba,Alicia,-31.938749168,-62.465794568
+Santa fe,Monte oscuridad,-30.4410853,-62.1031527
+La pampa,Embajador martini,-35.386185481,-64.283685726
+Rio negro,Ministro ramos mexia,-40.508540013,-67.261920715
+Santa fe,San lorenzo,-32.752306955,-60.735620981
+Santiago del estero,Fernandez,-27.94540061,-63.829917018
+Cordoba,Washington,-33.873367641,-64.688618221
+Buenos aires,9 de julio,-35.5689707,-60.642929
+Cordoba,San jose de la dormida,-30.354601839,-63.946652921
+Tucuman,El timbo,-26.7026752,-65.1227603
+Santa fe,Colonia bigand,-31.0667845,-61.7196223
+Cordoba,Aldea santa maria,-33.694881609,-62.911475884
+San juan,Santa lucia,-31.519509114,-68.494610795
+Santa fe,Videla,-30.946503263,-60.65644124
+Santa fe,Emilia,-31.061095175,-60.746437948
+Cordoba,Santa elena,-30.117475655,-63.843805471
+Santa fe,Las toscas,-28.35407493,-59.2595521
+Santiago del estero,Estacion robles,-28.06690671,-63.923293649
+Salta,General guemes,-24.660943985,-64.969657898
+Santa fe,Gregoria perez de denis,-28.246686048,-61.447837201
+Chubut,Lago puelo,-42.00974632,-71.57108275
+Buenos aires,Bahia blanca,-38.5947277,-62.3863759
+Jujuy,Mina pirquitas,-22.463222636,-66.462864779
+La rioja,General juan f quiroga,-30.92064282,-66.81158676
+Santa fe,Zavalla,-33.021569829,-60.879303488
+San juan,Albardon,-31.443393413,-68.543512275
+Santa fe,Colonia aldao,-30.982347455,-61.743986935
+Santa fe,Colonia ana,-30.144999839,-61.914791746
+Chaco,Las brenas,-27.26621971,-60.95539584
+Cordoba,Reduccion,-33.20145563,-63.862220721
+Buenos aires,General lavalle,-36.6749824,-57.3038014
+Entre rios,Pueblo liebig s,-32.157004904,-58.197661689
+Cordoba,Villa dolores,-32.01613487,-65.163820049
+Entre rios,El gramiyal,-31.191727162,-59.12463946
+Entre rios,Crespo,-31.99727805,-60.359648955
+Santa fe,Sanford,-33.147772982,-61.277857289
+Santa fe,Coronel dominguez,-33.185476006,-60.722863331
+Cordoba,Ana zumaran,-32.390824403,-63.057483505
+La rioja,General san martin,-31.808767384,-65.979224
+Entre rios,Los charruas,-31.21474042,-58.2076416
+Neuquen,Villa el chocon,-39.258978642,-68.826872366
+Cordoba,La serranita,-31.733134082,-64.456415452
+Cordoba,Los molinos,-31.858290164,-64.375057791
+Cordoba,Rio ceballos,-31.198023001,-64.288792425
+Cordoba,El aranado,-31.741233067,-62.893344371
+Buenos aires,Daireaux,-36.7640749,-61.9886445
+Entre rios,Las moscas,-32.092666686,-58.957592355
+Corrientes,Paso de la patria,-27.363933134,-58.661982433
+Chubut,Aldea beleiro,-45.561464468,-71.518172616
+Formosa,Laguna yema,-24.25546472,-61.243998007
+Misiones,Santo pipo,-27.265187887,-55.213687469
+San luis,Juan llerena,-33.281113256,-65.61457668
+Neuquen,San patricio del chanar,-38.625782407,-68.298645682
+Santa fe,Roldan,-32.90238793,-60.910882795
+Rio negro,Los menucos,-40.845191143,-68.083202506
+Entre rios,Aldea santa maria,-31.634415918,-59.968368213
+Cordoba,Canada de rio pinto,-30.775918322,-64.218297198
+San luis,Anchorena,-35.674645024,-65.424423051
+Entre rios,Aldea san rafael,-31.959829945,-60.255875549
+Santa fe,Plaza clucellas,-31.45455052,-61.707475623
+Buenos aires,Carlos tejedor,-35.4879339,-62.592526
+Santa cruz,El calafate,-50.337320848,-72.26199507
+Cordoba,Guasapampa,-31.107549953,-65.270336886
+Santiago del estero,El mojon,-26.122767348,-64.286664964
+Santa fe,Estacion clucellas,-31.524169149,-61.720645713
+Tucuman,Pampa mayo,-27.3011557,-65.295569
+Formosa,Bartolome de las casas,-25.494121812,-59.612058369
+Santiago del estero,Averias,-28.741220514,-62.382198062
+Cordoba,Nono,-31.795570032,-65.003403626
+Salta,Rosario de la frontera,-25.808897182,-64.984061824
+Tucuman,Los perez,-26.84331,-64.84914
+Neuquen,El sauce,-39.398144626,-69.595275561
+La pampa,General campos,-37.41825418,-63.4414187
+Cordoba,La francia,-31.406437919,-62.634358101
+Santa fe,San eduardo,-33.823583396,-62.192442665
+Santiago del estero,Sachayoj,-26.649596794,-61.787149744
+Cordoba,Rio tercero,-32.180207839,-64.173924309
+Entre rios,San gustavo,-30.712633339,-59.478415886
+Neuquen,Chorriaca,-37.929624049,-70.056215816
+Formosa,Fortin cabo 1°  lugones,-24.285486462,-59.828249917
+Chaco,Santa sylvina,-27.741069383,-61.052010698
+Santa fe,Esther,-31.043486113,-60.644866137
+Formosa,Laguna blanca,-25.130252206,-58.245843026
+La pampa,Miguel riglos,-36.853874906,-63.688184614
+Cordoba,Quebracho herrado,-31.549602222,-62.225731258
+Catamarca,Mutquin,-28.317845573,-66.142064287
+Santa fe,Carmen del sauce,-33.246622889,-60.764974022
+Santa fe,Larrechea,-31.936130528,-61.047716686
+Rio negro,El manso,-41.596518964,-71.744954287
+Misiones,Wanda,-25.966703984,-54.592942211
+Chaco,El sauzalito,-24.220355968,-62.148674292
+"Tierra del fuego, antartida e islas del atlantico sur",Tolhuin,-54.511386755,-67.195804464
+Tucuman,Ciudacita,-27.4244101,-65.4230388
+Corrientes,Riachuelo,-27.581145285,-58.741983122
+Cordoba,Segunda usina,-32.165042598,-64.378422587
+Santa fe,Casas,-32.127997604,-61.54212822
+Buenos aires,La matanza,-34.710831777,-58.495008488
+Jujuy,Santa clara,-24.271503305,-64.714692754
+Entre rios,Arroyo baru,-31.867363076,-58.445702858
+Santiago del estero,Colonia san juan,-27.614614115,-63.257825721
+Misiones,Puerto leoni,-26.984091061,-55.169484264
+Santa fe,Carcarana,-32.858828176,-61.15235022
+Santa fe,Arroyo ceibal,-28.725086997,-59.480416481
+Entre rios,Costa uruguay norte,-32.980562619,-58.343770151
+Jujuy,La quiaca,-22.12732,-65.70671
+Salta,La candelaria,-26.096179009,-65.061011952
+Rio negro,Sierra colorada,-40.585099353,-67.755544586
+Tucuman,La esperanza,-26.7088799,-65.2671174
+Santa fe,Chapuy,-33.874230914,-61.814018142
+Santa fe,Logrono,-29.4317893,-61.7627938
+La pampa,Loventue,-36.188745976,-65.289970273
+Jujuy,Palpala,-24.245642701,-65.083806876
+Entre rios,Betbeder,-32.374100868,-59.9380818
+Misiones,Hipolito yrigoyen,-27.090061326,-55.287071695
+Santa fe,Las garzas,-28.882314,-59.5491273
+Chaco,Villa rio bermejito,-25.793405556,-60.102021303
+Cordoba,Costa sacate,-31.647098474,-63.759895584
+Santiago del estero,Brea pozo,-28.262548448,-63.879484844
+Misiones,Puerto esperanza,-26.02938289,-54.58342511
+Buenos aires,25 de mayo,-35.879862,-60.4803228
+Rio negro,San antonio oeste,-40.811004684,-64.758112938
+Tucuman,El cadillal,-26.63254443,-65.205740834
+Entre rios,Villa clara,-31.830100456,-58.823390318
+Rio negro,El bolson,-41.875671878,-71.539998614
+Salta,Embarcacion,-23.264456059,-64.005265388
+Cordoba,Arroyito,-31.419390874,-63.05034441
+Cordoba,Las tapias,-31.95222792,-65.101421974
+Corrientes,Colonia libertad,-30.043976035,-57.823519398
+Formosa,Comandante fontana,-25.334793474,-59.682807188
+Tucuman,San isidro de lules,-26.960133899,-65.351472752
+Entre rios,Colonia general roca,-31.324406521,-58.121409671
+Cordoba,La para,-30.934026,-62.8957338
+San luis,Papagayos,-32.678640544,-64.988179522
+La pampa,Conhelo,-35.999487846,-64.595923338
+Santa fe,Rueda,-33.335855095,-60.460874055
+Buenos aires,Avellaneda,-34.675005648,-58.310563425
+Entre rios,Estacion yerua,-31.444962901,-58.424795852
+Cordoba,Cruz de cana,-31.097054761,-64.855667587
+Buenos aires,Arrecifes,-34.038684845,-60.072128296
+Santiago del estero,Casares,-28.952905017,-62.778968233
+Entre rios,Ombu,-30.467086514,-59.2427302
+Santa fe,Lehmann,-31.118904682,-61.515198293
+Cordoba,Tala canada,-31.359017999,-64.96381289
+Cordoba,Cienaga del coro,-31.039502088,-65.22174812
+Entre rios,San jose,-32.17976698,-58.212232883
+Santa fe,Canada del ucle,-33.410344072,-61.607043398
+Tucuman,Los puestos,-27.2942017,-64.9485133
+Santa fe,Sauce viejo,-31.763068346,-60.889860611
+Cordoba,Valle de anisacate,-31.731477693,-64.412962213
+Jujuy,El piquete,-24.135713577,-64.588111877
+Santa fe,Bella italia,-31.283979505,-61.409342518
+Santa cruz,Tres lagos,-49.599014827,-71.445802242
+Entre rios,Aldea maria luisa,-31.88472923,-60.408745687
+Santa fe,Pueblo munoz,-33.17448335,-60.89713984
+Santa fe,Calchaqui,-29.810016162,-60.435217737
+Santa fe,San jeronimo norte,-31.5025162,-61.0344244
+Cordoba,Olaeta,-33.043482121,-63.908595741
+Cordoba,San antonio de arredondo,-31.478226469,-64.528935043
+Tucuman,Villa belgrano,-27.53799,-65.63145
+Entre rios,General alvear,-31.949454108,-60.677949726
+Santa fe,Santa rosa de calchines,-31.422365592,-60.33489408
+Salta,San carlos,-25.424379349,-65.864425659
+Cordoba,Chuna huasi,-29.913837259,-64.129981796
+La pampa,Tomas m anchorena,-36.840660687,-63.520502165
+La pampa,Rolon,-37.166824215,-63.417158201
+Chubut,Paso de indios,-43.866305412,-69.04488709
+Cordoba,San antonio de litin,-32.21286054,-62.63300685
+Entre rios,Colon,-32.29636577,-58.232968122
+San luis,Concaran,-32.60479851,-65.18870622
+La pampa,Telen,-36.264056404,-65.50977318
+Buenos aires,Laprida,-37.646259308,-60.575561524
+Entre rios,Yacare,-30.60360412,-59.52751986
+Tucuman,San miguel de tucuman,-26.82900979,-65.210544181
+Entre rios,Estancia grande,-31.507626298,-58.13343466
+Santa fe,Diego de alvear,-34.374342924,-62.128927362
+Santiago del estero,Beltran,-27.852941439,-63.99761098
+Buenos aires,Tapalque,-36.4724178,-60.2509312
+Misiones,San martin,-27.50468938,-55.25533087
+Buenos aires,Puan,-38.0206069,-63.3468513
+La pampa,Villa mirasol,-36.075751346,-63.887583794
+Santiago del estero,El arenal,-26.80388184,-64.566014963
+Cordoba,Puesto de castro,-30.239082385,-63.49168541
+Entre rios,Las cuevas,-32.334228485,-60.487290247
+San luis,Lujan,-32.366034906,-65.942543997
+Entre rios,Aldea asuncion,-32.813586299,-59.173198585
+Jujuy,Pumahuasi,-22.237689972,-65.849250794
+Cordoba,Monte lena,-32.611289777,-62.590341039
+Salta,La vina,-25.58439827,-65.706748962
+Tucuman,Banda del rio sali,-26.899213309,-65.149286189
+Santa fe,Firmat,-33.458049683,-61.491452509
+Tucuman,Aguilares,-27.4187555,-65.6553505
+Chaco,Chorotis,-27.97048471,-61.694451147
+Rio negro,General fernandez oro,-38.979186876,-67.941976373
+Tucuman,Los sarmientos y la tipa,-27.391203,-65.7242902
+San luis,La punta,-33.200497941,-66.352823819
+Chubut,Buen pasto,-45.080422563,-69.449777772
+Rio negro,Chimpay,-39.158537315,-66.185606648
+Santiago del estero,Sol de julio,-29.57321319,-63.35197184
+Misiones,Capiovi,-26.922512222,-55.12387432
+Corrientes,Loreto,-27.519821728,-57.222750688
+Cordoba,Casa grande,-31.169712991,-64.477621432
+Cordoba,Villa valeria,-34.340853035,-64.917844944
+Misiones,Itacaruare,-27.811698914,-55.28434372
+Cordoba,Huinca renanco,-34.839725124,-64.372487679
+Santiago del estero,Colonia dora,-28.600316956,-62.872101252
+Entre rios,Distrito primero (primer distrito cuchilla),-33.066448843,-59.410663388
+Chaco,Isla del cerrito,-27.30530117,-58.7134742
+Chaco,General vedia,-26.866054223,-58.804107169
+Rio negro,Cona niyeu,-41.881202171,-66.940740427
+Cordoba,Las arrias,-30.285442894,-63.724191043
+Misiones,Eldorado,-26.442259496,-54.640573486
+Chaco,La tigra,-27.050347557,-60.535484584
+Buenos aires,Pellegrini,-36.312782367,-63.200247987
+Catamarca,Saujil,-28.060650391,-66.206503901
+La pampa,Eduardo castex,-35.916589711,-64.294586837
+Tucuman,Los bulacio y los villagra,-26.98216,-65.2174
+Entre rios,Colonia oficial n° 3 y 14,-30.583851704,-59.26054777
+Tucuman,Rio seco,-27.269048204,-65.559345953
+Santiago del estero,Canada escobar,-27.73540091,-63.995483719
+Mendoza,Junin,-33.203250714,-68.383229548
+Misiones,San pedro,-26.683566389,-54.205010749
+San luis,San jeronimo,-33.138305361,-66.516685933
+Santa fe,La camila,-30.065684,-60.5928599
+Santa fe,Castelar,-31.676283015,-62.17933031
+Cordoba,Villa del totoral,-30.7152859,-64.0271932
+Chubut,Esquel,-42.900637586,-71.606153511
+Corrientes,La cruz,-29.046966554,-56.677162213
+San luis,Villa de merlo,-32.342539114,-65.014137203
+Entre rios,Curtiembre,-31.463046828,-60.167112493
+Rio negro,Luis beltran,-39.308880098,-65.764871419
+Salta,Campo santo,-24.753509521,-65.1953125
+Cordoba,El rodeo,-30.1454812,-63.7159946
+La rioja,Independencia,-30.167445529,-66.945659299
+Entre rios,Santa elena,-30.946658958,-59.788285038
+Cordoba,Cordoba,-31.417743264,-64.189601352
+Jujuy,Rinconada,-22.43304,-65.95603
+Santa fe,Soldini,-33.023986845,-60.756188319
+Entre rios,"El solar, san carlos y colonia bertozzi",-31.181012467,-59.732884457
+Neuquen,Andacollo,-37.181410058,-70.669076542
+Cordoba,Villa san isidro,-31.837417296,-64.433641175
+Entre rios,Bovril,-31.342891441,-59.446730974
+La rioja,Castro barros,-28.683504219,-66.965493987
+Cordoba,Freyre,-31.164731932,-62.097633391
+Chubut,Gan gan,-42.523233029,-68.282854229
+Santa cruz,Rio turbio,-51.532838374,-72.334103208
+Tucuman,El sacrificio,-27.6445595,-65.5977204
+Misiones,San antonio,-26.131000318,-53.729570991
+Santa fe,Alcorta,-33.540197979,-61.124633716
+Santa fe,Oliveros,-32.575821525,-60.855351533
+San luis,Talita,-32.226898193,-65.571434021
+Entre rios,Larroque,-33.035424276,-59.001853656
+Corrientes,Felipe yofre,-29.015859604,-58.453979495
+La pampa,Casa de piedra,-38.223051531,-67.170926365
+Cordoba,Sampacho,-33.384538295,-64.721984954
+Santa fe,San carlos sud,-31.757595406,-61.100751498
+Buenos aires,Dolores,-36.3759209,-57.5106032
+Entre rios,Pajonal,-32.362644455,-60.345330507
+San luis,Potrero de los funes,-33.218778709,-66.230728818
+Santiago del estero,Lavalle,-28.241381963,-65.040418675
+Santiago del estero,Los nunez,-27.566700902,-64.476855866
+Santa fe,Lazzarino,-34.166329566,-62.428038028
+Cordoba,Mendiolaza,-31.263467979,-64.303833647
+Cordoba,La tordilla,-31.23524522,-63.059904271
+Entre rios,Laurencena,-32.224458951,-59.717168299
+Buenos aires,General arenales,-34.236875898,-61.103613881
+San juan,Chimbas,-31.48002633,-68.482182165
+Cordoba,Tosno,-30.911867142,-65.28327179
+Tucuman,Taco ralo,-27.782762528,-65.354072571
+Rio negro,Campo grande,-38.706485108,-68.173745522
+Santa fe,Angelica,-31.616383,-61.5463172
+Cordoba,El fortin,-31.967250235,-62.302628594
+Catamarca,Puerta de san jose,-27.358690262,-67.076065063
+Formosa,Los chiriguanos,-24.098683529,-61.46758677
+Santa fe,Pueblo andino,-32.671791416,-60.876180674
+Santa fe,Loma alta,-31.961443189,-61.178380046
+Rio negro,Pomona,-39.484160457,-65.612460051
+Santiago del estero,El cabure,-26.003069834,-62.323388602
+Formosa,Herradura,-26.48746464,-58.31224246
+Buenos aires,General las heras,-35.0146853,-58.9153953
+Entre rios,Paso de la laguna,-31.805764907,-59.165161371
+Santiago del estero,Vinara,-27.416195437,-64.745778884
+Buenos aires,General viamonte,-34.943772014,-61.158864354
+Entre rios,Chajari,-30.754075911,-57.984162588
+Entre rios,Clodomiro ledesma,-31.579402817,-58.181367817
+Santiago del estero,Estacion atamisqui,-28.498957084,-63.907725744
+Buenos aires,San antonio de areco,-34.301078797,-59.443847658
+Cordoba,Ausonia,-32.66138258,-63.244797381
+Cordoba,Las varillas,-31.873113558,-62.718794827
+Cordoba,Leguizamon,-34.204078846,-62.976888954
+Santa fe,La criolla,-30.198485153,-60.466989599
+Tucuman,Yanima,-27.6174278,-65.7102942
+Salta,Apolinario saravia,-24.513641829,-64.064883663
+Rio negro,Mencue,-40.543533325,-69.715614319
+La pampa,Vertiz,-35.426241108,-63.906364667
+Tucuman,Leon rouges y sta,-27.2347446,-65.4529392
+Cordoba,Pasco,-32.747004496,-63.341125426
+Santa fe,Maximo paz,-33.4392476,-61.0175791
+Buenos aires,Salto,-34.0897973,-60.2330114
+Misiones,Florentino ameghino,-27.751202788,-55.008955767
+Neuquen,El cholar,-37.44086477,-70.644181865
+Santa fe,Intiyaco,-28.677925367,-60.072468433
+Santa fe,Bauer y sigel,-31.217341,-61.950439
+Buenos aires,Navarro,-35.10836792,-59.444877625
+Tucuman,Amberes,-27.2669842,-65.488326
+Cordoba,Morteros,-30.710705808,-62.004443738
+Cordoba,Tinoco,-31.184978252,-63.893712568
+Santa fe,Canada de gomez,-32.855336445,-61.345035811
+Santa fe,Serodino,-32.605574079,-60.948176265
+Entre rios,Colonia ayui,-31.205090163,-58.033889922
+Buenos aires,La plata,-34.943733354,-58.173265239
+Cordoba,Dalmacio velez,-32.610873252,-63.579883716
+Buenos aires,Punta indio,-35.322780009,-57.44907685
+Cordoba,Chucul,-33.008954677,-64.171249341
+Entre rios,Arroyo del medio,-31.272990516,-59.090417775
+Chaco,San bernardo,-27.282306249,-60.802376761
+Santa fe,Centeno,-32.298023717,-61.410724147
+Chubut,Gastre,-42.265620457,-69.221097898
+Cordoba,Valle hermoso,-31.11728883,-64.484252832
+Tucuman,Buena vista,-27.2747659,-65.3926439
+Buenos aires,Tres arroyos,-38.492679006,-60.46842328
+Cordoba,Capilla de los remedios,-31.418073154,-63.779503733
+Santiago del estero,Clodomira,-27.593938929,-64.082649161
+La pampa,Anguil,-36.527922625,-64.010555898
+Santiago del estero,Suncho corral,-27.942519749,-63.369773579
+Tucuman,Tapia,-26.598184586,-65.423561096
+Cordoba,Benjamin gould,-33.590119541,-62.730389073
+Entre rios,Puerto yerua,-31.560384977,-58.037734874
+San luis,Desaguadero,-33.400458526,-67.148082208
+Tucuman,Famailla,-27.069737175,-65.399901155
+Cordoba,Achiras,-33.177017592,-64.994468497
+Santa fe,Maria luisa,-31.0308479,-60.8693686
+Chaco,Pampa almiron,-26.702247857,-59.123785034
+Cordoba,Colonia san pedro,-30.78360216,-61.917564318
+Cordoba,Vicuna mackenna,-33.93120449,-64.381922132
+Misiones,Andresito,-25.588067641,-54.008491575
+Santa fe,Carmen,-33.626200643,-61.811818948
+Santa fe,La brava,-30.447782511,-60.140935688
+Cordoba,Potrero de garay,-31.782415967,-64.542406878
+La pampa,Uriburu,-36.507757475,-63.862630766
+Santa fe,San martin norte,-30.23931026,-60.274732545
+Santa fe,Arteaga,-33.091131115,-61.791711388
+Catamarca,Hualfin,-27.225108949,-66.825749466
+Catamarca,Tapso,-28.379922867,-65.290245056
+Cordoba,Capilla del carmen,-31.508167817,-63.342135453
+Neuquen,Chos malal,-37.379256659,-70.272377222
+Tucuman,Concepcion,-27.33415,-65.643
+Corrientes,Garruchos,-28.172943586,-55.651332403
+Cordoba,Arias,-33.641163278,-62.402789011
+Chubut,Doctor ricardo rojas,-45.587008431,-71.029096842
+San luis,San jose del morro,-33.211985303,-65.492733448
+Tucuman,Benjamin araoz  y el tajamar,-26.52124,-64.80988
+Cordoba,Villa cerro azul,-31.070213987,-64.319733359
+Rio negro,Coronel belisle,-39.185829992,-65.956319118
+Tucuman,Rumi punco,-27.9833822,-65.5739195
+Cordoba,Calchin,-31.667935991,-63.200687094
+Rio negro,Comallo,-41.029874675,-70.26998065
+Neuquen,Alumine,-39.235322469,-70.91836323
+Jujuy,Yala,-24.143658895,-65.482919982
+Cordoba,Los cocos,-30.926977487,-64.502612392
+Cordoba,Villa rumipal,-32.149759072,-64.501591469
+Jujuy,Yuto,-23.565771119,-64.501372433
+Chaco,Campo largo,-26.757194734,-60.925126571
+Chubut,Cerro centinela,-43.48395319,-71.59418478
+Chubut,Lagunita salada,-42.767135446,-68.875421794
+Santiago del estero,La invernada,-27.386260612,-63.435600268
+La pampa,Agustoni,-35.781101877,-63.393249346
+Santiago del estero,Bandera bajada,-27.284675706,-63.464243134
+Neuquen,Las lajas,-38.524823791,-70.337623763
+Cordoba,Estancia vieja,-31.384259706,-64.51733082
+Santiago del estero,Frias,-28.675227447,-65.043543609
+Buenos aires,General la madrid,-37.250399248,-61.259579413
+Santa fe,Hughes,-33.802855665,-61.335803322
+Neuquen,Villa curi leuvu,-37.173665251,-70.395859979
+Entre rios,Colonia elia,-32.757829391,-58.453698843
+Cordoba,La palestina,-32.615588479,-63.409235206
+Tucuman,El puestito,-26.36994,-64.78136
+Santa cruz,Puerto santa cruz,-50.017189272,-68.524824632
+Chubut,Corcovado,-43.546720507,-71.47319222
+Cordoba,Brinkmann,-30.9176774,-62.0706057
+Entre rios,Sauce pinto,-31.844299073,-60.374748305
+Cordoba,Olivares de san nicolas,-30.327806414,-64.89110863
+Neuquen,Las coloradas,-39.557863882,-70.593289465
+San juan,Rawson,-31.62518554,-68.5292403
+Corrientes,Pueblo libertador,-30.260428824,-59.366326802
+Mendoza,San rafael,-34.726958284,-68.232903158
+Entre rios,Colonia alemana,-30.891979855,-58.085784492
+Cordoba,Tio pujio,-32.132773032,-63.405171118
+Cordoba,Villa fontana,-30.894008827,-63.115918199
+Entre rios,El pingo,-31.583849702,-59.893806937
+Misiones,Aristobulo del valle,-27.16718405,-54.739035134
+Corrientes,Herlitzka,-27.566303834,-58.259354284
+Tucuman,San pedro y san antonio,-27.374351502,-65.411117554
+Salta,Santa victoria este,-22.49881,-62.40759
+Santa fe,La rubia,-30.112046196,-61.717886228
+Entre rios,Arroyo burgos,-31.546715238,-59.717068246
+Santiago del estero,Monte quemado,-25.804237942,-62.831626591
+Tucuman,Capitan caceres,-27.141998291,-65.723739624
+Buenos aires,Coronel suarez,-38.134502529,-61.78855535
+Santiago del estero,Los pirpintos,-26.114328134,-62.044334407
+Cordoba,Almafuerte,-32.193460499,-64.254387186
+Entre rios,Ubajay,-31.792572802,-58.315851736
+Santa fe,Albarellos,-33.241303167,-60.636575141
+Santiago del estero,Villa ojo de agua,-29.521267399,-63.591699739
+La pampa,Santa isabel,-36.63620803,-66.47691656
+Rio negro,Sierra grande,-41.627678789,-65.023674602
+Santa cruz,Los antiguos,-46.548748489,-71.627483508
+Entre rios,Sauce de luna,-31.238474058,-59.220282957
+La pampa,Colonia 25 de mayo,-37.769705375,-67.717295824
+Entre rios,Villa gobernador etchevehere,-31.93428564,-60.427973773
+Cordoba,Churqui canada,-30.168157198,-63.929588932
+Cordoba,Corral de bustos,-33.28162199,-62.185450894
+Santiago del estero,Argentina,-29.534757124,-62.266804484
+Entre rios,Gilbert,-32.530603052,-58.9339533
+La pampa,Quehue,-37.121200503,-64.513366163
+San luis,Batavia,-34.775533256,-65.686298715
+Santa cruz,Julia dufour,-51.540611177,-72.239896726
+La pampa,Rucanelo,-36.042937678,-64.835321477
+Cordoba,Los mistoles,-30.625974294,-63.886727301
+Buenos aires,Villa gesell,-37.24647047,-56.970726762
+Santa fe,San jose,-31.599653511,-60.871598224
+Santiago del estero,Villa mailin,-28.489326844,-63.203107848
+Santa fe,Cululu,-31.205311085,-60.931400342
+Santiago del estero,Arraga,-28.078122994,-64.157572523
+Santa fe,San vicente,-31.6644157,-61.5416348
+Cordoba,Villa de maria,-29.90435834,-63.722318986
+Santa fe,Bigand,-33.376118303,-61.18550131
+San luis,Fraga,-33.50208707,-65.792647779
+Santa fe,Irigoyen,-32.16077341,-61.110425843
+Misiones,Ruiz de montoya,-26.966588283,-55.057589921
+Cordoba,Atahona,-30.903531623,-63.705565118
+Misiones,Caa yari,-27.569051573,-55.266223379
+San luis,Balde,-33.501125039,-66.651440618
+Santa fe,Rufino,-34.194701226,-62.682860327
+Cordoba,La paisanita,-31.703312344,-64.483666704
+Cordoba,Sarmiento,-30.7741941,-64.108986812
+La pampa,Ceballos,-35.290484998,-63.775860645
+Santa fe,Maciel,-32.458765255,-60.893112648
+Cordoba,Los condores,-32.321127768,-64.281008033
+Santa fe,Sarmiento,-31.106548024,-61.268701915
+San luis,La calera,-32.861991896,-66.850652977
+Cordoba,Del campillo,-34.37608471,-64.494539924
+Santa fe,Teodelina,-34.113109589,-61.469360352
+Entre rios,La criolla,-31.269371288,-58.106042542
+Cordoba,Colonia vignaud,-30.84162423,-61.95583862
+Cordoba,Sauce arriba,-31.921396034,-65.145978632
+Jujuy,El talar,-23.555878664,-64.361463912
+Jujuy,Puesto viejo,-24.505686608,-64.975926295
+Rio negro,Yaminue,-40.842927451,-67.192250066
+Entre rios,Hambis,-31.889983276,-58.568789379
+La pampa,Peru,-37.662384944,-64.137321349
+Cordoba,Villa del dique,-32.169683717,-64.456795285
+Cordoba,Luyaba,-32.158947424,-65.00381538
+Santa fe,Humboldt,-31.3157955,-61.1531588
+Cordoba,Villa el chacay,-32.893726661,-64.867514078
+Buenos aires,Tandil,-37.180403068,-59.041061222
+Santa fe,Lopez,-31.906966893,-61.279929538
+Cordoba,Maquinista gallini,-30.907889751,-63.576739943
+Santa fe,San jeronimo sud,-32.878735333,-61.024390395
+Santiago del estero,Guardia escolta,-28.970348891,-62.035706029
+Cordoba,San jose de las salinas,-29.982391401,-64.490007826
+Cordoba,Melo,-34.348319125,-63.447171445
+Rio negro,Viedma,-40.861971581,-63.02050806
+Buenos aires,Florencio varela,-34.956404857,-58.27874543
+Misiones,Apostoles,-27.907959426,-55.807958412
+Catamarca,Fiambala,-27.22379303,-67.375106812
+Misiones,Los helechos,-27.616902888,-55.042475047
+Misiones,Bernardo de irigoyen,-26.324457621,-53.67757059
+Rio negro,Choele choel,-39.288454335,-65.663280823
+Entre rios,Villa dominguez,-31.987014686,-58.963417914
+Entre rios,Distrito talitas,-32.893096697,-59.079839654
+Misiones,Dos de mayo,-27.02345029,-54.678825644
+Santiago del estero,Los telares,-28.996106075,-63.359661133
+Rio negro,Sierra paileman,-41.214345515,-66.338309668
+Chaco,Pampa del indio,-26.05765689,-59.88848543
+La pampa,Jacinto arauz,-38.40961523,-63.4727511
+Cordoba,Ballesteros sud,-32.588597122,-63.027038783
+Santiago del estero,Villa la punta,-28.405996058,-64.715892082
+Rio negro,Chichinales,-39.13837603,-66.909520748
+La pampa,Metileo,-35.773243873,-63.942830889
+Tucuman,San pedro de colalao,-26.235765435,-65.493851556
+Entre rios,Victoria,-32.63996085,-60.61138083
+Buenos aires,Mar chiquita,-37.277860675,-57.774014817
+Tucuman,Choromoro,-26.4536469,-65.567153
+Tucuman,Alderetes,-26.818446005,-65.155677894
+Entre rios,Federacion,-31.042469676,-57.922582348
+Chubut,Puerto piramides,-42.573617193,-64.283689347
+Santa fe,Carlos pellegrini,-31.9752548,-61.866689238
+Santa fe,Frontera,-31.419251502,-62.059146376
+Chubut,Jose de san martin,-44.054503086,-70.469842345
+Santa fe,Aurelia,-31.423602376,-61.424470881
+Cordoba,Avellaneda,-30.594676202,-64.207839337
+Chubut,Telsen,-42.438751161,-66.941427996
+Cordoba,Villa rio icho cruz,-31.479106559,-64.562747407
+Entre rios,Aldea san miguel,-32.08058548,-60.163280487
+Santa fe,Bustinza,-32.634607995,-61.428337112
+Entre rios,Caseros,-32.464277256,-58.478071873
+Jujuy,Hipolito yrigoyen,-22.982479096,-65.351234436
+Jujuy,Susques,-23.841815948,-66.790603638
+Cordoba,Malagueno,-31.463791156,-64.412451404
+Neuquen,El huecu,-37.641583258,-70.579087736
+Jujuy,Cieneguillas,-21.969379644,-65.900391483
+Tucuman,Graneros,-27.70933,-65.41759
+Santa fe,Vila,-31.107587,-61.8125194
+Chaco,Quitilipi,-26.98338806,-60.23454723
+Rio negro,Pilquiniyeu del limay,-40.544852484,-70.053231466
+La pampa,Doblas,-37.152183882,-64.014055093
+San juan,San martin,-31.554877793,-68.327869303
+Entre rios,Arroyo cle,-32.63389053,-59.401610891
+Buenos aires,Ayacucho,-37.1878636,-58.1420194
+Santa fe,Tostado,-29.0968571,-61.8810721
+Rio negro,Allen,-39.04168381,-67.734008142
+Buenos aires,Tordillo,-36.41425324,-57.082138134
+Neuquen,Picun leufu,-39.519136171,-69.296267312
+Santa fe,Desvio arijon,-31.832080081,-60.871964707
+La rioja,General angel v penaloza,-30.40433033,-66.57224067
+Cordoba,Bulnes,-33.503281821,-64.675573516
+Santa fe,Monte vera,-31.517797444,-60.611516007
+Salta,Urundel,-23.551631468,-64.396518805
+Formosa,El espinillo,-24.979988826,-58.553787714
+Jujuy,Fraile pintado,-23.773231506,-65.047737122
+Cordoba,La batea,-30.441764653,-65.423838653
+Santa fe,Franck,-31.588873617,-60.938894583
+Chaco,Puerto bermejo,-26.907375372,-58.542831663
+Rio negro,Prahuaniyeu,-41.359151925,-67.931476342
+Santa cruz,Perito moreno,-46.592141688,-70.925727843
+Rio negro,Aguada guzman,-39.866718292,-68.703437805
+Entre rios,Gobernador sola,-32.33023737,-59.44588004
+Buenos aires,Roque perez,-35.485469046,-59.101715598
+San luis,Villa general roca,-32.666192563,-66.452401018
+Santa fe,El sombrerito,-28.601586396,-59.376999019
+Misiones,Panambi,-27.688941107,-54.925601149
+Cordoba,San agustin,-31.976315515,-64.373306716
+Santa fe,Moises ville,-30.71820087,-61.469140085
