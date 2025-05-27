@@ -1,0 +1,15 @@
+# Ignorar archivos temporales
+*.log
+*.tmp
+
+# Ignorar carpetas específicas
+/node_modules/
+dist/
+build/
+
+# Ignorar archivos específicos
+secreto.txt
+config/local.env
+Resumen de proyectos.xlsx
+
+
