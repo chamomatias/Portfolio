@@ -1,6 +1,6 @@
 # 📊 Portfolio de Proyectos en Power BI
 
-Bienvenido/a a mi portfolio de proyectos desarrollados con Power BI. Todos los datos utilizados en los tableros del portfolio provienen de fuentes públicas o han sido generados de manera sintética. En ningún caso se expone información privada ni confidencial de ninguna empresa.
+Bienvenido/a a mi portfolio de proyectos desarrollados con Power BI. **Todos los datos utilizados en los tableros del portfolio provienen de fuentes públicas o han sido generados de manera sintética. En ningún caso se expone información privada ni confidencial de ninguna empresa.**
 
 ---
 
