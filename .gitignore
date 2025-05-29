@@ -10,6 +10,6 @@ build/
 # Ignorar archivos específicos
 secreto.txt
 config/local.env
-Resumen de proyectos.xlsx
+Power Bi/Resumen de proyectos.xlsx
 
 
