@@ -14,18 +14,3 @@ Bienvenido/a a mi portfolio de proyectos desarrollados con Power BI. **Todos los
 | **Proy_04** | Proyecto final - Diplomatura Ciencia de Datos | [🔗 Ver dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjkxMTZmOGEtMzJhNi00OGRlLTg3OGEtMGU1YzJmNDc0OTE1IiwidCI6IjkxZjVjYjg5LTUyZmUtNDdhYi05MDVmLTRlMzU4ODZmNWE1NyIsImMiOjR9) |
 
 ---
-
-## 📁 Detalle de cada proyecto
-
-Cada carpeta incluye su propio `README.md` con información específica:
-
-- Objetivo del análisis
-- Fuente y tratamiento de los datos
-- Modelo de datos
-- Herramientas utilizadas
-- Capturas o enlaces a los tableros
-
----
-
-Gracias por visitar este repositorio 🙌  
-Si querés contactarme o saber más sobre mí, podés visitar mi perfil de [LinkedIn](https://www.linkedin.com/in/chamomatias/) o ver más proyectos en mi [GitHub](https://github.com/chamomatias).
