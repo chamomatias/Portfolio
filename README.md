@@ -5,4 +5,6 @@ Este espacio reúne los principales proyectos que desarrollé en el ámbito del 
 > 🛠️ **Nota:** Algunos proyectos están siendo actualizados. Estoy generando nuevos datasets sintéticos para preservar la confidencialidad de los datos originales sin comprometer el análisis.
 
 📄 **Mi CV está disponible para su descarga:**  
-[Descargar CV - Matías Chamorro (PDF)](https://github.com/chamomatias/Portfolio/blob/main/CV_Matias_Chamorro_ATS.pdf)
+[Descargar CV - Matías Chamorro (PDF)](https://drive.google.com/file/d/1kzWMEVOfW_u4b4m4s-bWwvAfLqLE5ZQP/view?usp=sharing)
+
+---
