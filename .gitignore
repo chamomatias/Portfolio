@@ -1,0 +1,25 @@
+# Archivos de Power BI
+*.pbix
+*.pbip
+*.pbit
+
+# Archivos de Excel y CSV
+*.xlsx
+*.xls
+*.csv
+
+# Archivos temporales y de sistema
+~$*
+*.tmp
+*.log
+*.bak
+.DS_Store
+Thumbs.db
+
+# Archivos de Python si usás scripts
+*.pyc
+__pycache__/
+
+# Carpetas de sincronización o backups
+.sync/
+.backup/
