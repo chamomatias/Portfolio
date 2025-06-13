@@ -1,0 +1,11 @@
+lote_id,campaña,fecha_siembra,densidad_siembra,fertilizante_n,fertilizante_p,hibrido_maiz,laboreo
+Lote_1,2024,2022-09-30,62433,107,32,NK 900,Convencional
+Lote_2,2022,2022-09-30,65311,139,66,NK 900,Siembra Directa
+Lote_3,2024,2022-10-13,65051,95,36,Dekalb 7815,Convencional
+Lote_4,2024,2022-10-25,66420,94,50,NK 900,Siembra Directa
+Lote_5,2022,2022-10-29,77568,126,38,Dekalb 7815,Siembra Directa
+Lote_6,2022,2022-10-13,79769,130,68,NK 900,Siembra Directa
+Lote_7,2024,2022-09-22,66396,123,47,Pioneer P2089,Siembra Directa
+Lote_8,2023,2022-10-11,68666,134,33,Pioneer P2089,Siembra Directa
+Lote_9,2024,2022-09-21,78942,131,54,Dekalb 7815,Siembra Directa
+Lote_10,2024,2022-10-13,78431,136,43,Pioneer P2089,Siembra Directa
