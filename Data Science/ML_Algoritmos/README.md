@@ -5,6 +5,24 @@ Este repositorio organiza los principales algoritmos de Machine Learning en func
 
 ---
 
+
+## 📙 Aprendizaje_No_Supervisado
+
+No se cuenta con etiquetas. El modelo intenta **descubrir estructuras o patrones** en los datos.
+
+### 🔹 Clustering
+Agrupación de elementos similares sin conocer previamente las categorías. Ejemplos:
+- K-Means
+- DBSCAN
+- Clustering Jerárquico
+
+### 🔹 Reducción_Dimensionalidad
+Reducen el número de variables manteniendo la información esencial. Ejemplos:
+- PCA (Análisis de Componentes Principales)
+- t-SNE
+- UMAP
+
+---
 ## 📘 Aprendizaje_Supervisado
 
 El modelo se entrena con datos que ya están etiquetados (es decir, con la respuesta correcta conocida).
@@ -26,25 +44,6 @@ Algoritmos que predicen **valores continuos**. Ejemplos:
 - Árboles de Regresión
 
 ---
-
-## 📙 Aprendizaje_No_Supervisado
-
-No se cuenta con etiquetas. El modelo intenta **descubrir estructuras o patrones** en los datos.
-
-### 🔹 Clustering
-Agrupación de elementos similares sin conocer previamente las categorías. Ejemplos:
-- K-Means
-- DBSCAN
-- Clustering Jerárquico
-
-### 🔹 Reducción_Dimensionalidad
-Reducen el número de variables manteniendo la información esencial. Ejemplos:
-- PCA (Análisis de Componentes Principales)
-- t-SNE
-- UMAP
-
----
-
 ## 📗 Aprendizaje_por_Refuerzo
 
 Un **agente aprende por prueba y error** a través de recompensas y penalizaciones en un entorno.
@@ -66,5 +65,3 @@ Ejemplos:
 - Stacking / Voting Classifiers
 
 ---
-
-> Esta estructura sirve como base para organizar scripts, notebooks y documentación por tipo de algoritmo.
