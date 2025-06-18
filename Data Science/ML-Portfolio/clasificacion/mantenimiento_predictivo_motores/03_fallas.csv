@@ -1,0 +1,7 @@
+motor_id,fecha_falla,tipo_falla
+MTR_001,2025-06-22,mecánica
+MTR_003,2025-06-11,sobrecalentamiento
+MTR_005,2025-06-19,sobrecalentamiento
+MTR_006,2025-06-26,mecánica
+MTR_008,2025-06-04,mecánica
+MTR_010,2025-06-29,sobrecalentamiento
