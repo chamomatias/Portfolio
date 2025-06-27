@@ -1,5 +1,3 @@
-# Portfolio Profesional
-
 ¡Hola! Gracias por visitar mi repositorio.
 
 En este espacio encontrarás mi CV y una colección de trabajos desarrollados a lo largo de mi formación y experiencia profesional.
