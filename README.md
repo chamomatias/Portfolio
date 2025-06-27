@@ -6,4 +6,4 @@ En este espacio encontrarás mi CV y una colección de trabajos desarrollados a 
 
 ---
 📄 [CV actualizado](https://drive.google.com/file/d/1kzWMEVOfW_u4b4m4s-bWwvAfLqLE5ZQP/view?usp=sharing)  
-🔗 [Acceso a mi perfil de LinkedIn](https://www.linkedin.com/in/m-chamorro)
+🔗 [LinkedIn](https://www.linkedin.com/in/m-chamorro)
