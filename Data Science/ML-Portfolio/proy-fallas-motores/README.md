@@ -1,53 +1,91 @@
-# Predicción de Fallas en Motores
+# Predicción de fallas en motores industriales con Machine Learning
 
-Este proyecto aplica técnicas de **Machine Learning** para predecir si un motor entrará en estado de falla en los próximos **15 días**, a partir de datos operativos y de sensores.
+Este proyecto implementa un modelo de clasificación supervisada para predecir fallas en motores industriales con al menos 15 días de anticipación, a partir de variables sensoriales y operativas.
 
-## 🔍 Objetivo
+## Objetivo
 
-Desarrollar un modelo predictivo que permita anticipar fallas en motores, optimizando así las tareas de mantenimiento preventivo y evitando paradas no planificadas.
+Desarrollar una solución predictiva capaz de anticipar si un motor presentará una falla en los próximos 15 días, con base en datos históricos como temperatura, vibración, presión, RPM, consumo energético y horas de operación.
 
-## 🧠 Enfoque de Machine Learning
+## Dataset
 
-1. **Exploración y limpieza de datos**  
-   Se analizaron las variables más relevantes, se eliminaron valores faltantes y se normalizaron los datos para su posterior modelado.
+El conjunto de datos contiene más de 63.000 registros correspondientes a 50 motores distintos, cada uno con mediciones diarias. Las variables incluyen:
 
-2. **Modelo entrenado: `XGBoostClassifier`**  
-   Se seleccionó el algoritmo XGBoost por su rendimiento superior en problemas de clasificación con datos tabulares.
+- Fecha de registro
+- Identificador del motor
+- Temperatura
+- Vibración
+- Presión
+- RPM
+- Consumo energético
+- Horas de operación
+- Falla actual
+- Indicador binario de falla en los próximos 15 días (variable objetivo)
 
-3. **Evaluación del modelo**  
-   El modelo se entrenó y validó con datos históricos, logrando una precisión del **73%**, con métricas equilibradas entre clases.
+## Enfoque de modelado
 
-4. **Exportación del modelo**  
-   El modelo final fue serializado como `modelo_xgboost.pkl` para ser usado en producción.
+Se abordó el problema como una clasificación binaria (`falla_en_15_dias`: sí/no). El pipeline de Machine Learning incluye:
 
-## 🚀 Aplicación Web (Streamlit)
+1. **Preprocesamiento**
+   - Conversión de fechas
+   - Ordenamiento por motor y fecha
+   - Eliminación de registros incompletos
 
-Se desarrolló una app en Streamlit que permite:
+2. **Ingeniería de características**
+   - Cálculo de medias móviles (7 días) para temperatura, vibración y consumo energético por motor
+   - Generación de variables temporales: día, mes, día de la semana
 
-- Subir un archivo CSV con datos de nuevos motores.
-- Predecir si cada motor fallará o no.
-- Visualizar los resultados y descargarlos en un archivo.
+3. **Entrenamiento del modelo**
+   - Algoritmo utilizado: `XGBoostClassifier`
+   - División en conjuntos de entrenamiento y prueba (70/30) con estratificación
+   - Evaluación mediante F1-score, accuracy y matriz de confusión
 
-La aplicación está desplegada en línea mediante **Streamlit Community Cloud**.
+4. **Rendimiento del modelo**
+   - Accuracy: 73%
+   - F1-score (clase positiva - falla): 0.66
+   - Recall: 0.64
+   - El modelo mostró buena capacidad de generalización con preferencia por variables acumuladas como vibración y temperatura.
 
-## 📁 Estructura del repositorio
+## Aplicación
+
+El modelo fue integrado en una aplicación web desarrollada con Streamlit, que permite:
+
+- Cargar archivos `.csv` con datos nuevos
+- Ejecutar predicciones motor por motor
+- Visualizar resultados y descargar las predicciones
+
+## Estructura del repositorio
 
 ```
-├── app.py                  # App Streamlit
+├── app.py                   # Aplicación en Streamlit
 ├── models/
-│   └── modelo_xgboost.pkl  # Modelo entrenado serializado
-├── notebooks/              # Análisis exploratorio y entrenamiento
-├── reports/                # Resultados gráficos
-├── src/                    # Scripts auxiliares (preprocesamiento, features, etc.)
-├── tests/                  # Pruebas del sistema
-├── requirements.txt        # Librerías necesarias
-└── README.md               # Descripción del proyecto
+│   └── modelo_xgboost.pkl   # Modelo entrenado serializado
+├── notebooks/               # Análisis exploratorio y desarrollo
+├── src/                     # Scripts auxiliares (features, preprocesamiento)
+├── data/                    # Datos de entrada (formato de ejemplo)
+├── requirements.txt         # Dependencias del proyecto
+└── README.md                # Descripción técnica del proyecto
 ```
 
-## 🔧 Librerías clave
+## Requisitos
 
-- `pandas`, `numpy`
-- `scikit-learn`
-- `xgboost`
-- `matplotlib`
-- `streamlit`
+- Python 3.10+
+- pandas, scikit-learn, xgboost, streamlit, matplotlib
+
+Instalación de dependencias:
+
+```
+pip install -r requirements.txt
+```
+
+## Ejecución
+
+Desde la raíz del proyecto:
+
+```
+streamlit run app.py
+```
+
+## Autor
+
+Matías Chamorro  
+Certificación: Data Science II - Machine Learning aplicado a la ciencia de datos
